@@ -1,0 +1,26 @@
+{
+  "underhood": "spbunderhood",
+  "underhoodDesc": "Коллективный аккаунт жителей Петербурга, каждую неделю новый петербуржец расскажет о своей жизни в этом замечательном городе.",
+  "underhoodSite": "http://spbunderhood.ru",
+  "githubUser": "spbunderhood",
+  "githubRepo": "spbunderhood.ru",
+  "curatorEmail": "zarema.khalilova@gmail.com",
+  "curatorTwitter": "zmoki",
+  "creatorTwitter": "iamstarkov",
+  "gauges": "56742cb6c88d9046da0016f5",
+  "googleAnalytics": "UA-72751791-1",
+  "yandexMetric": "34863285",
+  "creatorCreds": "iamstarkov@gmail.com (Vladimir Starkov)",
+  "underhoodVersion": "0.1.1",
+  "site": {
+    "title": "Сайт @spbunderhood",
+    "description": "Коллективный аккаунт жителей Петербурга, каждую неделю новый петербуржец расскажет о своей жизни в этом замечательном городе.",
+    "feed_url": "https://http://spbunderhood.ru/rss.xml",
+    "site_url": "https://http://spbunderhood.ru/",
+    "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
+    "copyright": "MIT",
+    "language": "ru",
+    "categories": [ "twitter" ]
+  }
+}
