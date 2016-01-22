@@ -15,8 +15,8 @@
   "site": {
     "title": "Сайт @spbunderhood",
     "description": "Коллективный аккаунт жителей Петербурга, каждую неделю новый петербуржец расскажет о своей жизни в этом замечательном городе.",
-    "feed_url": "https://http://spbunderhood.ru/rss.xml",
-    "site_url": "https://http://spbunderhood.ru/",
+    "feed_url": "https://spbunderhood.ru/rss.xml",
+    "site_url": "https://spbunderhood.ru/",
     "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
     "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
     "copyright": "MIT",
