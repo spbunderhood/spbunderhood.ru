@@ -64,5 +64,5 @@
 Если вы заметили нарушение, как можно скорее [напишите письмо][coc-violations].
 
 [uh]: https://twitter.com/spbunderhood
-[proposal]: mailto:zarema.khalilova@gmail.com?subject=Author’s%20proposal%20for%20@spbunderhood
-[coc-violations]: mailto:zarema.khalilova@gmail.com?subject=CoC%20violations%20in%20@spbunderhood
+[proposal]: mailto:hello@spbunderhood.ru?subject=Author’s%20proposal%20for%20@spbunderhood
+[coc-violations]: mailto:hello@spbunderhood.ru?subject=CoC%20violations%20in%20@spbunderhood
