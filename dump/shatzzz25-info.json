@@ -35,20 +35,20 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 312,
+  "statuses_count": 314,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 29 13:20:44 +0000 2016",
-    "id": 704295238333034500,
-    "id_str": "704295238333034496",
-    "text": "@_h4_ раздутое до вселенских масштабов альтер эго)",
+    "created_at": "Mon Feb 29 18:25:08 +0000 2016",
+    "id": 704371843717832700,
+    "id_str": "704371843717832705",
+    "text": "@KsuSunochki расскажешь как проходит процесс окультуривания?",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 704294946057166800,
-    "in_reply_to_status_id_str": "704294946057166848",
-    "in_reply_to_user_id": 15020265,
-    "in_reply_to_user_id_str": "15020265",
-    "in_reply_to_screen_name": "_h4_",
+    "in_reply_to_status_id": 704371039522975700,
+    "in_reply_to_status_id_str": "704371039522975745",
+    "in_reply_to_user_id": 418635263,
+    "in_reply_to_user_id_str": "418635263",
+    "in_reply_to_screen_name": "KsuSunochki",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -57,19 +57,19 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "_h4_",
-          "name": "Михаил Баранов",
-          "id": 15020265,
-          "id_str": "15020265",
+          "screen_name": "KsuSunochki",
+          "name": "Ksenya Achmetzhanova",
+          "id": 418635263,
+          "id_str": "418635263",
           "indices": [
             0,
-            5
+            12
           ]
         }
       ],
