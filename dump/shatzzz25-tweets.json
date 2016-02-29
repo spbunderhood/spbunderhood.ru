@@ -1,0 +1,188 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 29 07:55:20 +0000 2016",
+      "id": 704213348804591600,
+      "id_str": "704213348804591617",
+      "text": "Доброго всем утра, господа) На этой неделе с Вами Я, зовут меня Александр и Я бармен..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 07:57:13 +0000 2016",
+      "id": 704213820517060600,
+      "id_str": "704213820517060609",
+      "text": "Всем кому стану интересен милости прошу на прием за стойку) вот, кстати, Я) https://t.co/Bn7HBoVth0",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 704213803584585700,
+            "id_str": "704213803584585728",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "url": "https://t.co/Bn7HBoVth0",
+            "display_url": "pic.twitter.com/Bn7HBoVth0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704213820517060609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1025,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704213803584585700,
+            "id_str": "704213803584585728",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "url": "https://t.co/Bn7HBoVth0",
+            "display_url": "pic.twitter.com/Bn7HBoVth0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704213820517060609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1025,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:16:07 +0000 2016",
+      "id": 704218576597680100,
+      "id_str": "704218576597680128",
+      "text": "Смотрю тут все пишут о своей любви к Петербургу.. Значит вот Вам моя история.. Усаживайтесь поудобнее, берите какао, начнем..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
