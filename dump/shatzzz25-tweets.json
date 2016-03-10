@@ -1,0 +1,3220 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 29 07:55:20 +0000 2016",
+      "id": 704213348804591600,
+      "id_str": "704213348804591617",
+      "text": "Доброго всем утра, господа) На этой неделе с Вами Я, зовут меня Александр и Я бармен..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 07:57:13 +0000 2016",
+      "id": 704213820517060600,
+      "id_str": "704213820517060609",
+      "text": "Всем кому стану интересен милости прошу на прием за стойку) вот, кстати, Я) https://t.co/Bn7HBoVth0",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 704213803584585700,
+            "id_str": "704213803584585728",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "url": "https://t.co/Bn7HBoVth0",
+            "display_url": "pic.twitter.com/Bn7HBoVth0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704213820517060609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1025,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704213803584585700,
+            "id_str": "704213803584585728",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcXeuSiWAAALiMw.jpg",
+            "url": "https://t.co/Bn7HBoVth0",
+            "display_url": "pic.twitter.com/Bn7HBoVth0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704213820517060609/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1025,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:16:07 +0000 2016",
+      "id": 704218576597680100,
+      "id_str": "704218576597680128",
+      "text": "Смотрю тут все пишут о своей любви к Петербургу.. Значит вот Вам моя история.. Усаживайтесь поудобнее, берите какао, начнем..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:19:53 +0000 2016",
+      "id": 704219526058086400,
+      "id_str": "704219526058086400",
+      "text": "Родился и вырос Александр в провинции, в славном городе Костомукша, что на севере Карелии, почти у полярного круга..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:22:03 +0000 2016",
+      "id": 704220072844386300,
+      "id_str": "704220072844386304",
+      "text": "Население города К на тот момент составляло чуть более 30 тыс. человек.. Город почти в лесу, где каждый знает каждого..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:34:58 +0000 2016",
+      "id": 704223323799097300,
+      "id_str": "704223323799097344",
+      "text": "Школу Александр закончил с медалью хочется написать, ан нет, не с медалью, а кое-как..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 08:37:34 +0000 2016",
+      "id": 704223974947946500,
+      "id_str": "704223974947946496",
+      "text": "Затем поехал покорять Петрозаводск с его колледжем, а вот его-то Александр закончил с блеском, видимо жажда знаний приходит позже..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:07:14 +0000 2016",
+      "id": 704231440783958000,
+      "id_str": "704231440783958016",
+      "text": "В 2007 году настало время поступать в университет, СПбГУСЭ ждал меня.. Так Я впервые и познакомился с Петербургом, НО..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:14:35 +0000 2016",
+      "id": 704233293189931000,
+      "id_str": "704233293189931008",
+      "text": "Заочное отделение и Петербург два раза в год.. Мне этого было мало и через два года было решено переехать насовсем.. Куда? В Челябинск..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:16:13 +0000 2016",
+      "id": 704233701744517100,
+      "id_str": "704233701744517120",
+      "text": "Вот это поворот) Но двухкомнатная квартира в Че это весомый аргумент против неизвестности в Питере не правда ли?",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:45:38 +0000 2016",
+      "id": 704241104888193000,
+      "id_str": "704241104888193024",
+      "text": "Знаете эти шуточки про суровых челябинцев, про то что они закусывают водку чуть ли не камнями?? Так вот это не шуточки.. Все так и есть..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:48:31 +0000 2016",
+      "id": 704241832386039800,
+      "id_str": "704241832386039808",
+      "text": "Восемь месяцев. Ровно на столько меня хватило в Че.. Другие люди, другая жизнь, другой мир..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:51:46 +0000 2016",
+      "id": 704242648517877800,
+      "id_str": "704242648517877760",
+      "text": "Вернулся в К.. Пару недель как не в своей тарелке с ощущением, что что-то делаю не так.. И вот однажды утром звонит друг из Питера..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 09:56:24 +0000 2016",
+      "id": 704243813771046900,
+      "id_str": "704243813771046912",
+      "text": "\"У меня для тебя есть работа\" говорит он... Ни секунды не размышляя, \"Мама, Папа, Я уезжаю жить в Питер..\"",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 10:01:59 +0000 2016",
+      "id": 704245220284698600,
+      "id_str": "704245220284698624",
+      "text": "4 тысячи рублей в кармане и работа жестянщиком одном из гаражей тюнингующих авто)) вот это перспективка, но даже это не остановило..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 10:39:25 +0000 2016",
+      "id": 704254640100085800,
+      "id_str": "704254640100085760",
+      "text": "Меня хватило на один день в тюнинге, чтобы понять, что это ну совсем не моё.. Холод, грязь, краска, чужие авто.. Мало кому такое понравится.",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 10:46:42 +0000 2016",
+      "id": 704256472960639000,
+      "id_str": "704256472960638976",
+      "text": "Бар, атмосфера праздника и всегда улыбающиеся люди куда заманчивее тюнинга) примерно так Я и оказался за стойкой..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 11:10:40 +0000 2016",
+      "id": 704262504470454300,
+      "id_str": "704262504470454272",
+      "text": "А дальше бесконечная смена баров.. Кто-то из Вас даже может и был у меня за стойкой.. Маловероятно конечно, но мне будет приятно так думать)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 11:53:01 +0000 2016",
+      "id": 704273161110601700,
+      "id_str": "704273161110601728",
+      "text": "Есть тут кто? )",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 11:57:23 +0000 2016",
+      "id": 704274261394001900,
+      "id_str": "704274261394001920",
+      "text": "@vovudebosh William Bass",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704273417218998300,
+      "in_reply_to_status_id_str": "704273417218998272",
+      "in_reply_to_user_id": 216727918,
+      "in_reply_to_user_id_str": "216727918",
+      "in_reply_to_screen_name": "vovudebosh",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vovudebosh",
+            "name": "Vovu Debosh",
+            "id": 216727918,
+            "id_str": "216727918",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Feb 29 11:59:11 +0000 2016",
+      "id": 704274716413055000,
+      "id_str": "704274716413054976",
+      "text": "@dcromster гранпри в номинации неудобных вопросов получает Roman Milovskiy))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704273608051462100,
+      "in_reply_to_status_id_str": "704273608051462145",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 12:39:18 +0000 2016",
+      "id": 704284810538328000,
+      "id_str": "704284810538328064",
+      "text": "Есть ли у Вас любимые бары?? Что в них привлекает??",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 12:50:42 +0000 2016",
+      "id": 704287679538700300,
+      "id_str": "704287679538700288",
+      "text": "@fatum_nsk в каком районе? Может посоветую чего))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704285368041017300,
+      "in_reply_to_status_id_str": "704285368041017344",
+      "in_reply_to_user_id": 14627231,
+      "in_reply_to_user_id_str": "14627231",
+      "in_reply_to_screen_name": "fatum_nsk",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fatum_nsk",
+            "name": "Alexandr Alexandrov",
+            "id": 14627231,
+            "id_str": "14627231",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 12:51:48 +0000 2016",
+      "id": 704287954626351100,
+      "id_str": "704287954626351104",
+      "text": "@wouldntfix это где??",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704286726609616900,
+      "in_reply_to_status_id_str": "704286726609616901",
+      "in_reply_to_user_id": 20382725,
+      "in_reply_to_user_id_str": "20382725",
+      "in_reply_to_screen_name": "wouldntfix",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 12:59:43 +0000 2016",
+      "id": 704289950024466400,
+      "id_str": "704289950024466432",
+      "text": "@fatum_nsk есть еще лиговский 50.. Там второй портал..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704289162296475600,
+      "in_reply_to_status_id_str": "704289162296475648",
+      "in_reply_to_user_id": 14627231,
+      "in_reply_to_user_id_str": "14627231",
+      "in_reply_to_screen_name": "fatum_nsk",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fatum_nsk",
+            "name": "Alexandr Alexandrov",
+            "id": 14627231,
+            "id_str": "14627231",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 13:05:27 +0000 2016",
+      "id": 704291391413887000,
+      "id_str": "704291391413886976",
+      "text": "@fatum_nsk подруга запомнила бар Poison только потому что её напоили там боярским.. Далее вспомнить не может..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704290778735091700,
+      "in_reply_to_status_id_str": "704290778735091712",
+      "in_reply_to_user_id": 14627231,
+      "in_reply_to_user_id_str": "14627231",
+      "in_reply_to_screen_name": "fatum_nsk",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fatum_nsk",
+            "name": "Alexandr Alexandrov",
+            "id": 14627231,
+            "id_str": "14627231",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 13:17:07 +0000 2016",
+      "id": 704294326063534100,
+      "id_str": "704294326063534080",
+      "text": "Я когда переехал в Петербург думал, что сейчас начну окультуриваться.. Ходить по театрам, музеям, выставкам..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 13:18:08 +0000 2016",
+      "id": 704294583874818000,
+      "id_str": "704294583874818048",
+      "text": "На деле, за пять Я дважды был в театре и дважды в музеях.. Чем вы себя развлекаете кроме баров и выпивки??",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 13:20:44 +0000 2016",
+      "id": 704295238333034500,
+      "id_str": "704295238333034496",
+      "text": "@_h4_ раздутое до вселенских масштабов альтер эго)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704294946057166800,
+      "in_reply_to_status_id_str": "704294946057166848",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 16:37:30 +0000 2016",
+      "id": 704344754302095400,
+      "id_str": "704344754302095362",
+      "text": "@mkn8rd когда зашла тема про алкоголь и бары было активно))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704341636143321100,
+      "in_reply_to_status_id_str": "704341636143321089",
+      "in_reply_to_user_id": 247242874,
+      "in_reply_to_user_id_str": "247242874",
+      "in_reply_to_screen_name": "mkn8rd",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkn8rd",
+            "name": "Dmitry Nazarov",
+            "id": 247242874,
+            "id_str": "247242874",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 18:25:08 +0000 2016",
+      "id": 704371843717832700,
+      "id_str": "704371843717832705",
+      "text": "@KsuSunochki расскажешь как проходит процесс окультуривания?",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704371039522975700,
+      "in_reply_to_status_id_str": "704371039522975745",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 19:01:35 +0000 2016",
+      "id": 704381014303502300,
+      "id_str": "704381014303502336",
+      "text": "Даешь культуру в массы!! Кто за коллективный поход в театр? ))) погнали))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 19:13:51 +0000 2016",
+      "id": 704384102951211000,
+      "id_str": "704384102951211008",
+      "text": "@AliasAirlines приятно встретить земляка на просторах интернета))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704381695919853600,
+      "in_reply_to_status_id_str": "704381695919853568",
+      "in_reply_to_user_id": 196277307,
+      "in_reply_to_user_id_str": "196277307",
+      "in_reply_to_screen_name": "AliasAirlines",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AliasAirlines",
+            "name": "Михаил Архипов",
+            "id": 196277307,
+            "id_str": "196277307",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 20:29:09 +0000 2016",
+      "id": 704403052279763000,
+      "id_str": "704403052279762944",
+      "text": "@KsuSunochki теперь надо выбрать когда, куда и на что))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704398861922660400,
+      "in_reply_to_status_id_str": "704398861922660357",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 29 20:36:21 +0000 2016",
+      "id": 704404865628426200,
+      "id_str": "704404865628426241",
+      "text": "@KsuSunochki за любой кипиш! Погнали..) только вот мало кто нас поддерживает( ну что вы? Камон..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704403976792449000,
+      "in_reply_to_status_id_str": "704403976792449024",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 05:24:01 +0000 2016",
+      "id": 704537656408072200,
+      "id_str": "704537656408072192",
+      "text": "Всех с весной, господа)))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 06:40:24 +0000 2016",
+      "id": 704556878043422700,
+      "id_str": "704556878043422720",
+      "text": ".@nataelbalevsky  у нас тоже -12, но греет мысль, что мы пережили зиму))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704554176534224900,
+      "in_reply_to_status_id_str": "704554176534224896",
+      "in_reply_to_user_id": 845556073,
+      "in_reply_to_user_id_str": "845556073",
+      "in_reply_to_screen_name": "nataelbalevsky",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nataelbalevsky",
+            "name": "MW (18+)",
+            "id": 845556073,
+            "id_str": "845556073",
+            "indices": [
+              1,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 08:33:55 +0000 2016",
+      "id": 704585447259938800,
+      "id_str": "704585447259938816",
+      "text": "То самое время когда можно носить солнечные очки с зимней курткой))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 10:41:18 +0000 2016",
+      "id": 704617503444619300,
+      "id_str": "704617503444619265",
+      "text": "Не силен в английском поэтому спросил у яндекса.. Underhood - подкапотное пространство\nЧто??",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 10:48:20 +0000 2016",
+      "id": 704619274804052000,
+      "id_str": "704619274804051968",
+      "text": ".@mktoid Я думал, что все что скрыто называется подпольным.. Но никак не подкапотным..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704618087782309900,
+      "in_reply_to_status_id_str": "704618087782309888",
+      "in_reply_to_user_id": 281644224,
+      "in_reply_to_user_id_str": "281644224",
+      "in_reply_to_screen_name": "mktoid",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mktoid",
+            "name": "Oleg Cheremisin",
+            "id": 281644224,
+            "id_str": "281644224",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 11:02:24 +0000 2016",
+      "id": 704622811688607700,
+      "id_str": "704622811688607745",
+      "text": "Велик и могуч)))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Tue Mar 01 11:13:16 +0000 2016",
+      "id": 704625546135740400,
+      "id_str": "704625546135740416",
+      "text": ".@_h4_ @somethingunderhood это многое объясняет.. Эти программисты вообще народ странный))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704624236967628800,
+      "in_reply_to_status_id_str": "704624236967628800",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              1,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 13:39:55 +0000 2016",
+      "id": 704662453418893300,
+      "id_str": "704662453418893312",
+      "text": "Отмечали мы тут тридцатилетие одного такого программиста на выходных в компании таких же программистов как он..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 13:41:49 +0000 2016",
+      "id": 704662932047667200,
+      "id_str": "704662932047667200",
+      "text": "И если когда он один мне как-то удается сдерживать его программистство )), то в тот вечер они превосходили меня численно..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 13:42:46 +0000 2016",
+      "id": 704663170703605800,
+      "id_str": "704663170703605769",
+      "text": "Почти весь вечер они разговаривали о работе)) даже когда напились.. Невнятно.. Но о работе))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 13:43:29 +0000 2016",
+      "id": 704663352115654700,
+      "id_str": "704663352115654656",
+      "text": "Но это было необычно) интересно пообщаться со странно-умными людьми))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 21:16:45 +0000 2016",
+      "id": 704777420319166500,
+      "id_str": "704777420319166465",
+      "text": ".@KsuSunochki \"Давай только не о работе\" обычно звучит в начале разговора если в компании есть больше одного бармена)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704760641408671700,
+      "in_reply_to_status_id_str": "704760641408671744",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 21:18:03 +0000 2016",
+      "id": 704777746128478200,
+      "id_str": "704777746128478212",
+      "text": "Тем же много.. Зачем говорить на работе о работе и на отдыхе о работе? Так недолго и с ума сойти..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 21:22:44 +0000 2016",
+      "id": 704778925289971700,
+      "id_str": "704778925289971713",
+      "text": "Кстати, все больше и больше барменов завязывают с выпивкой разрушая стереотип.. Это не может не радовать..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 01 21:49:17 +0000 2016",
+      "id": 704785607848038400,
+      "id_str": "704785607848038400",
+      "text": ".@vovudebosh нет, это всего лишь забота о здоровье..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704779429139103700,
+      "in_reply_to_status_id_str": "704779429139103744",
+      "in_reply_to_user_id": 216727918,
+      "in_reply_to_user_id_str": "216727918",
+      "in_reply_to_screen_name": "vovudebosh",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vovudebosh",
+            "name": "Vovu Debosh",
+            "id": 216727918,
+            "id_str": "216727918",
+            "indices": [
+              1,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:27:49 +0000 2016",
+      "id": 704916098156781600,
+      "id_str": "704916098156781568",
+      "text": ".@KsuSunochki что тут удивительного??",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704797051603836900,
+      "in_reply_to_status_id_str": "704797051603836928",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:32:30 +0000 2016",
+      "id": 704917276898828300,
+      "id_str": "704917276898828288",
+      "text": ".@SergeyBruhin @vovudebosh да все уже давно известно.. И да, книги еще никто не отменял..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704836646865399800,
+      "in_reply_to_status_id_str": "704836646865399809",
+      "in_reply_to_user_id": 3436039780,
+      "in_reply_to_user_id_str": "3436039780",
+      "in_reply_to_screen_name": "SergeyBruhin",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SergeyBruhin",
+            "name": "Sergey Bruhin",
+            "id": 3436039780,
+            "id_str": "3436039780",
+            "indices": [
+              1,
+              14
+            ]
+          },
+          {
+            "screen_name": "vovudebosh",
+            "name": "Vovu Debosh",
+            "id": 216727918,
+            "id_str": "216727918",
+            "indices": [
+              15,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:35:42 +0000 2016",
+      "id": 704918081940881400,
+      "id_str": "704918081940881408",
+      "text": "Доброго утра) смотрю появились вопросы.. Давайте расскажу о работе бармена)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:37:52 +0000 2016",
+      "id": 704918627997327400,
+      "id_str": "704918627997327361",
+      "text": "В этой каше Я варюсь уже 11 лет и первые 2 года ты работаешь с мыслью, что \"на работе пить нельзя\"..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:39:16 +0000 2016",
+      "id": 704918982780911600,
+      "id_str": "704918982780911616",
+      "text": "Затем понимаешь, что если никто не видит и ты можешь держать себя в руках, то почему бы и нет..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:40:55 +0000 2016",
+      "id": 704919394892312600,
+      "id_str": "704919394892312576",
+      "text": "Вот тут-то и открывается волшебный мир алкоголя, вина, пива, настоек..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:41:59 +0000 2016",
+      "id": 704919666171486200,
+      "id_str": "704919666171486208",
+      "text": "\"Ты должен знать, что продаешь\" под этим девизом Я бухал на работе)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:43:20 +0000 2016",
+      "id": 704920006170177500,
+      "id_str": "704920006170177536",
+      "text": "Еще было \"Я не пью, Я дегустирую\".. Кароче, скрывали как могли свой алкоголизм..)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:45:13 +0000 2016",
+      "id": 704920477115019300,
+      "id_str": "704920477115019265",
+      "text": ".@_h4_  если ты ходишь в офис и в конце месяца получаешь деньги, то да.. Это работа)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704920110432186400,
+      "in_reply_to_status_id_str": "704920110432186372",
+      "in_reply_to_user_id": 15020265,
+      "in_reply_to_user_id_str": "15020265",
+      "in_reply_to_screen_name": "_h4_",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_h4_",
+            "name": "Михаил Баранов",
+            "id": 15020265,
+            "id_str": "15020265",
+            "indices": [
+              1,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:46:10 +0000 2016",
+      "id": 704920718560067600,
+      "id_str": "704920718560067584",
+      "text": ".@KsuSunochki в точку..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:47:31 +0000 2016",
+      "id": 704921055803080700,
+      "id_str": "704921055803080704",
+      "text": "А когда ты уже все перепробовал и понял, что в каждом новом баре ассортимент не меняется, то это становится не интересно..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:48:54 +0000 2016",
+      "id": 704921405016690700,
+      "id_str": "704921405016690688",
+      "text": "Естественно если Я сталкиваюсь с чем-то новым, то Я это пробую.. Но пробую, только чтоб вы не тратили свои деньги вслепую..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:49:29 +0000 2016",
+      "id": 704921553520173000,
+      "id_str": "704921553520173056",
+      "text": ".@KsuSunochki мы живем в удивительной стране))))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704921297332125700,
+      "in_reply_to_status_id_str": "704921297332125696",
+      "in_reply_to_user_id": 418635263,
+      "in_reply_to_user_id_str": "418635263",
+      "in_reply_to_screen_name": "KsuSunochki",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KsuSunochki",
+            "name": "Ksenya Achmetzhanova",
+            "id": 418635263,
+            "id_str": "418635263",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:50:59 +0000 2016",
+      "id": 704921931645120500,
+      "id_str": "704921931645120512",
+      "text": "Недавно мне в бар привезли виски, которого на российском рынке вообще нет.. Ну как тут не попробовать))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:56:09 +0000 2016",
+      "id": 704923230105178100,
+      "id_str": "704923230105178114",
+      "text": "А для тех кто ну совсем не хочет пробовать, есть священное писание)) https://t.co/5BjuWaRnZg",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 704922976320417800,
+            "id_str": "704922976320417792",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cchjtk2W8AA2oEu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cchjtk2W8AA2oEu.jpg",
+            "url": "https://t.co/5BjuWaRnZg",
+            "display_url": "pic.twitter.com/5BjuWaRnZg",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704923230105178114/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 704922976320417800,
+            "id_str": "704922976320417792",
+            "indices": [
+              69,
+              92
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cchjtk2W8AA2oEu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cchjtk2W8AA2oEu.jpg",
+            "url": "https://t.co/5BjuWaRnZg",
+            "display_url": "pic.twitter.com/5BjuWaRnZg",
+            "expanded_url": "http://twitter.com/spbunderhood/status/704923230105178114/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 300,
+                "h": 340,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 06:57:55 +0000 2016",
+      "id": 704923672440643600,
+      "id_str": "704923672440643586",
+      "text": "Там все описано в доступной форме теми, кто ради науки отдали свою печень) если среди вас есть мои коллеги, то очень советую ознакомиться))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 07:06:56 +0000 2016",
+      "id": 704925945644318700,
+      "id_str": "704925945644318720",
+      "text": ".@mkn8rd конечно! В любом деле должны быть учебники)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 704925223959830500,
+      "in_reply_to_status_id_str": "704925223959830528",
+      "in_reply_to_user_id": 247242874,
+      "in_reply_to_user_id_str": "247242874",
+      "in_reply_to_screen_name": "mkn8rd",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mkn8rd",
+            "name": "Dmitry Nazarov",
+            "id": 247242874,
+            "id_str": "247242874",
+            "indices": [
+              1,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 12:18:31 +0000 2016",
+      "id": 705004356966416400,
+      "id_str": "705004356966416384",
+      "text": ".@vovudebosh @SergeyBruhin пробовать коктейль и пить на работе и вне её это разные вещи..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 705001610838188000,
+      "in_reply_to_status_id_str": "705001610838188032",
+      "in_reply_to_user_id": 216727918,
+      "in_reply_to_user_id_str": "216727918",
+      "in_reply_to_screen_name": "vovudebosh",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vovudebosh",
+            "name": "Vovu Debosh",
+            "id": 216727918,
+            "id_str": "216727918",
+            "indices": [
+              1,
+              12
+            ]
+          },
+          {
+            "screen_name": "SergeyBruhin",
+            "name": "Sergey Bruhin",
+            "id": 3436039780,
+            "id_str": "3436039780",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Mar 02 13:57:28 +0000 2016",
+      "id": 705029257072939000,
+      "id_str": "705029257072939008",
+      "text": "Недавно мне подарили Сильмариллион.. Это шедевр) ни черта не понятно пока что, но Я в восторге)))",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 03 06:30:27 +0000 2016",
+      "id": 705279149146034200,
+      "id_str": "705279149146034176",
+      "text": "Утра) уже начали планировать выходные?? )",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 03 07:12:27 +0000 2016",
+      "id": 705289720788607000,
+      "id_str": "705289720788606976",
+      "text": "А пора бы)) https://t.co/xArjTXPoa2",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 705289683253727200,
+            "id_str": "705289683253727232",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcmxOuoWEAAyDy4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcmxOuoWEAAyDy4.jpg",
+            "url": "https://t.co/xArjTXPoa2",
+            "display_url": "pic.twitter.com/xArjTXPoa2",
+            "expanded_url": "http://twitter.com/spbunderhood/status/705289720788606976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 604,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 705289683253727200,
+            "id_str": "705289683253727232",
+            "indices": [
+              12,
+              35
+            ],
+            "media_url": "http://pbs.twimg.com/media/CcmxOuoWEAAyDy4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CcmxOuoWEAAyDy4.jpg",
+            "url": "https://t.co/xArjTXPoa2",
+            "display_url": "pic.twitter.com/xArjTXPoa2",
+            "expanded_url": "http://twitter.com/spbunderhood/status/705289720788606976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 604,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 03 12:34:51 +0000 2016",
+      "id": 705370855723900900,
+      "id_str": "705370855723900928",
+      "text": "До переезда в Петербург не любил читать книги.. Но глядя на всех этих читак в метро прям заразился этим.. Сейчас читаю много, часто, везде..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 03 12:36:05 +0000 2016",
+      "id": 705371166156914700,
+      "id_str": "705371166156914688",
+      "text": "Может быть это веяние стереотипов, что Петербург самый читающий город, может просто с возрастом приходит..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Mar 03 12:37:00 +0000 2016",
+      "id": 705371394993995800,
+      "id_str": "705371394993995776",
+      "text": "Но факт остается фактом, переехал полюбил читать..\n\nКакую книгу сейчас читаете Вы?",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Mar 04 05:30:09 +0000 2016",
+      "id": 705626363928014800,
+      "id_str": "705626363928014849",
+      "text": "Утра всем кто не спит) мой рабочий день подходит к концу.. Последний час он самый долгий..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Mar 04 05:31:33 +0000 2016",
+      "id": 705626716056621000,
+      "id_str": "705626716056621057",
+      "text": "Кофе уже не бодрит, завтрак не радует.. Хочется только спать..",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Mar 04 15:11:05 +0000 2016",
+      "id": 705772558826803200,
+      "id_str": "705772558826803201",
+      "text": "Снова на работе.. Люблю свою работу.. Больше работы богу работы..\n\nКакие планы на вечер пятницы, господа??)",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        1684172600
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
