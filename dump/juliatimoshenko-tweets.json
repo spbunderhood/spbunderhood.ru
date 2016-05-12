@@ -9333,6 +9333,386 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 12 17:33:22 +0000 2016",
+      "id": 730813131132424200,
+      "id_str": "730813131132424192",
+      "text": "«...Зачем тебе солнце, если ты куришь “Шипку”?\nЗа дверью бессмысленно все, особенно — возглас счастья...» https://t.co/wUmIi8jKXM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 730812920431444000,
+            "id_str": "730812920431443969",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiReeqeVAAEdvZG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiReeqeVAAEdvZG.jpg",
+            "url": "https://t.co/wUmIi8jKXM",
+            "display_url": "pic.twitter.com/wUmIi8jKXM",
+            "expanded_url": "http://twitter.com/spbunderhood/status/730813131132424192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 602,
+                "h": 452,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730812920431444000,
+            "id_str": "730812920431443969",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiReeqeVAAEdvZG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiReeqeVAAEdvZG.jpg",
+            "url": "https://t.co/wUmIi8jKXM",
+            "display_url": "pic.twitter.com/wUmIi8jKXM",
+            "expanded_url": "http://twitter.com/spbunderhood/status/730813131132424192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 602,
+                "h": 452,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        173452035
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu May 12 18:59:02 +0000 2016",
+      "id": 730834689230024700,
+      "id_str": "730834689230024708",
+      "text": "RT @dcromster: cc: @spbunderhood https://t.co/UmTd8YTxbO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              19,
+              32
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 730832252968435700,
+            "id_str": "730832252968435712",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+            "url": "https://t.co/UmTd8YTxbO",
+            "display_url": "pic.twitter.com/UmTd8YTxbO",
+            "expanded_url": "http://twitter.com/dcromster/status/730832254067462145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 478,
+                "h": 315,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 478,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 224,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730832254067462100,
+            "source_status_id_str": "730832254067462145",
+            "source_user_id": 81103006,
+            "source_user_id_str": "81103006"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 730832252968435700,
+            "id_str": "730832252968435712",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+            "url": "https://t.co/UmTd8YTxbO",
+            "display_url": "pic.twitter.com/UmTd8YTxbO",
+            "expanded_url": "http://twitter.com/dcromster/status/730832254067462145/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 478,
+                "h": 315,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 478,
+                "h": 315,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 224,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 730832254067462100,
+            "source_status_id_str": "730832254067462145",
+            "source_user_id": 81103006,
+            "source_user_id_str": "81103006"
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        173452035
+      ],
+      "retweeted_status": {
+        "created_at": "Thu May 12 18:49:22 +0000 2016",
+        "id": 730832254067462100,
+        "id_str": "730832254067462145",
+        "text": "cc: @spbunderhood https://t.co/UmTd8YTxbO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                4,
+                17
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 730832252968435700,
+              "id_str": "730832252968435712",
+              "indices": [
+                18,
+                41
+              ],
+              "media_url": "http://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+              "url": "https://t.co/UmTd8YTxbO",
+              "display_url": "pic.twitter.com/UmTd8YTxbO",
+              "expanded_url": "http://twitter.com/dcromster/status/730832254067462145/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 478,
+                  "h": 315,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 478,
+                  "h": 315,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 224,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 730832252968435700,
+              "id_str": "730832252968435712",
+              "indices": [
+                18,
+                41
+              ],
+              "media_url": "http://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CiRwD9yVAAAerUr.jpg",
+              "url": "https://t.co/UmTd8YTxbO",
+              "display_url": "pic.twitter.com/UmTd8YTxbO",
+              "expanded_url": "http://twitter.com/dcromster/status/730832254067462145/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 478,
+                  "h": 315,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 478,
+                  "h": 315,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 224,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
     }
   ]
 }
