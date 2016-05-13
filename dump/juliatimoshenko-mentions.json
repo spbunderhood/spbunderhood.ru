@@ -2478,6 +2478,94 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Fri May 13 10:07:52 +0000 2016",
+      "id": 731063402852954100,
+      "id_str": "731063402852954112",
+      "text": "Нет, этого не может быть. Десятки раз проходить мимо и не заметить? Вот я разява. @spbunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              82,
+              95
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 730791137900908500,
+      "in_reply_to_status_id_str": "730791137900908544",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 196277307,
+        "id_str": "196277307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri May 13 15:04:46 +0000 2016",
+      "id": 731138119576236000,
+      "id_str": "731138119576236032",
+      "text": "@spbunderhood недавно стал жить неподалеку и тоже задумался, что нахрена ехать в Европу, если визуально уже там.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 731135931923763200,
+      "in_reply_to_status_id_str": "731135931923763200",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 165731497,
+        "id_str": "165731497"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
