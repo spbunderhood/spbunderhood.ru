@@ -30,24 +30,43 @@
   "friends_count": 40,
   "listed_count": 7,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 27,
+  "favourites_count": 30,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 505,
+  "statuses_count": 530,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 16 10:28:59 +0000 2016",
-    "id": 732155879919919100,
-    "id_str": "732155879919919108",
-    "text": "Когда переехала, первое время просто наслаждалась неотесанностью Питера. Ведь \"чистый\" Минск так и говорил: \"Большой брат следит за тобой\")",
+    "created_at": "Thu May 19 11:39:36 +0000 2016",
+    "id": 733260817404186600,
+    "id_str": "733260817404186624",
+    "text": "Мой поклон ребятам за то великолепие, что они порождают. \nНовый альбом АукцЫона:\nhttps://t.co/oLELCh1A6L\nhttps://t.co/dOG36wOVnm",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/oLELCh1A6L",
+          "expanded_url": "http://www.gq.ru/culture/music/151274_auktsyon_vypustili_novyy_albom.php",
+          "display_url": "gq.ru/culture/music/…",
+          "indices": [
+            81,
+            104
+          ]
+        },
+        {
+          "url": "https://t.co/dOG36wOVnm",
+          "expanded_url": "http://rutracker2.org/music/4741-aukcyon-na-solnce-2016-mp3.html",
+          "display_url": "rutracker2.org/music/4741-auk…",
+          "indices": [
+            105,
+            128
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -66,6 +85,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
