@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 215,
+  "followers_count": 222,
   "friends_count": 40,
-  "listed_count": 8,
+  "listed_count": 9,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 47,
+  "favourites_count": 54,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 629,
+  "statuses_count": 680,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 06 08:21:26 +0000 2016",
-    "id": 739733925925388300,
-    "id_str": "739733925925388288",
-    "text": "Доброе всем утречко!",
+    "created_at": "Sun Jun 12 16:14:13 +0000 2016",
+    "id": 742027234026901500,
+    "id_str": "742027234026901504",
+    "text": "История СПб интересные факты https://t.co/cgSL3ajjjx",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/cgSL3ajjjx",
+          "expanded_url": "http://www.arrivo.ru/statii/interesniye-fakty/12-interesnyh-faktov-o-sankt-peterburge.html",
+          "display_url": "arrivo.ru/statii/interes…",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -66,6 +76,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
