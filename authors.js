@@ -1,7 +1,8 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
-  { username: 'ptica_elsze', start: '13 June 2016', first: '742305153747947520', post: false},
+  { username: 'maria_lobareva', start: '20 June 2016', first: '744807470346887168', post: false},
+  { username: 'ptica_elsze', start: '13 June 2016', first: '742305153747947520'},
   { username: 'TheatreSubbota', start: '06 June 2016', first: '739733925925388288'},
   { username: '123PorRosa', start: '30 May 2016', first: '737226514014588928'},
   { username: 'EcTsUj2JDpMy2Qn', start: '23 May 2016', first: '734650327648112640'},
