@@ -46,9 +46,11 @@ describe('about page', () => {
 
 describe('archive pages', () => {
   it('tweets list', () => {
-    authors.forEach( author => {
+    authors.reverse().forEach( author => {
       if (author.post === false) return;
       const $ = make$(`dist/${author.username}/index.html`);
+      console.log(author.username, author.post === false)
+      console.log($('article p').length, $('article h2 small').length)
       assert($('article p').length > 1);
       assert($('article h2 small').length > 1);
     });
