@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 228,
+  "followers_count": 246,
   "friends_count": 40,
-  "listed_count": 10,
+  "listed_count": 11,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 55,
+  "favourites_count": 59,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 794,
+  "statuses_count": 877,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jun 28 06:31:18 +0000 2016",
-    "id": 747678744920326100,
-    "id_str": "747678744920326145",
-    "text": "Бодрого утра, Петербург! Всем отлично дня. 😉 https://t.co/DnSdXCM4CK",
+    "created_at": "Sun Jul 03 20:45:44 +0000 2016",
+    "id": 749705707839258600,
+    "id_str": "749705707839258624",
+    "text": "Доброй ночи, Петербург! Была отличная неделя! 🌙✨ https://t.co/DbVbQO3DbS",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -50,27 +50,27 @@
       "urls": [],
       "media": [
         {
-          "id": 747678537587560400,
-          "id_str": "747678537587560449",
+          "id": 749705106682159100,
+          "id_str": "749705106682159110",
           "indices": [
-            45,
-            68
+            49,
+            72
           ],
-          "media_url": "http://pbs.twimg.com/media/CmBJqycXEAEiQk6.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmBJqycXEAEiQk6.jpg",
-          "url": "https://t.co/DnSdXCM4CK",
-          "display_url": "pic.twitter.com/DnSdXCM4CK",
-          "expanded_url": "http://twitter.com/spbunderhood/status/747678744920326145/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cmd80ooWIAYNbxD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cmd80ooWIAYNbxD.jpg",
+          "url": "https://t.co/DbVbQO3DbS",
+          "display_url": "pic.twitter.com/DbVbQO3DbS",
+          "expanded_url": "http://twitter.com/spbunderhood/status/749705707839258624/photo/1",
           "type": "photo",
           "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
             "small": {
               "w": 680,
-              "h": 383,
+              "h": 285,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 293,
               "resize": "fit"
             },
             "thumb": {
@@ -79,8 +79,8 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1800,
-              "h": 1013,
+              "w": 700,
+              "h": 293,
               "resize": "fit"
             }
           }
@@ -90,27 +90,27 @@
     "extended_entities": {
       "media": [
         {
-          "id": 747678537587560400,
-          "id_str": "747678537587560449",
+          "id": 749705106682159100,
+          "id_str": "749705106682159110",
           "indices": [
-            45,
-            68
+            49,
+            72
           ],
-          "media_url": "http://pbs.twimg.com/media/CmBJqycXEAEiQk6.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CmBJqycXEAEiQk6.jpg",
-          "url": "https://t.co/DnSdXCM4CK",
-          "display_url": "pic.twitter.com/DnSdXCM4CK",
-          "expanded_url": "http://twitter.com/spbunderhood/status/747678744920326145/photo/1",
+          "media_url": "http://pbs.twimg.com/media/Cmd80ooWIAYNbxD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cmd80ooWIAYNbxD.jpg",
+          "url": "https://t.co/DbVbQO3DbS",
+          "display_url": "pic.twitter.com/DbVbQO3DbS",
+          "expanded_url": "http://twitter.com/spbunderhood/status/749705707839258624/photo/1",
           "type": "photo",
           "sizes": {
-            "medium": {
-              "w": 1200,
-              "h": 675,
-              "resize": "fit"
-            },
             "small": {
               "w": 680,
-              "h": 383,
+              "h": 285,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 293,
               "resize": "fit"
             },
             "thumb": {
@@ -119,8 +119,8 @@
               "resize": "crop"
             },
             "large": {
-              "w": 1800,
-              "h": 1013,
+              "w": 700,
+              "h": 293,
               "resize": "fit"
             }
           }
@@ -141,7 +141,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
