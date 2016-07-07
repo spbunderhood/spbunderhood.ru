@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 244,
+  "followers_count": 243,
   "friends_count": 40,
   "listed_count": 11,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 59,
+  "favourites_count": 60,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 883,
+  "statuses_count": 891,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 04 17:20:08 +0000 2016",
-    "id": 750016355127029800,
-    "id_str": "750016355127029760",
-    "text": "Моему сыну Фёдору три года и он ныряет на 10 метров на задержке дыхания. https://t.co/jDDqRnNmiq",
+    "created_at": "Thu Jul 07 07:01:14 +0000 2016",
+    "id": 750947769465045000,
+    "id_str": "750947769465044992",
+    "text": "Доооброе утро! Я категорически настаиваю на том, что в такую погоду в Питере нужно ходить так: https://t.co/DDruw0SJPI",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +49,12 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/jDDqRnNmiq",
-          "expanded_url": "http://vk.com/video?section=all&z=video24770_171130156%2Falbum24770%2Fpl_24770",
-          "display_url": "vk.com/video?section=…",
+          "url": "https://t.co/DDruw0SJPI",
+          "expanded_url": "https://www.instagram.com/p/BHc9ktvh1Zl/?taken-by=turclubpik",
+          "display_url": "instagram.com/p/BHc9ktvh1Zl/…",
           "indices": [
-            73,
-            96
+            95,
+            118
           ]
         }
       ]
@@ -68,10 +68,12 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      634945494
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
