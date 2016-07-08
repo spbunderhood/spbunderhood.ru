@@ -35,29 +35,19 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 891,
+  "statuses_count": 892,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jul 07 07:01:14 +0000 2016",
-    "id": 750947769465045000,
-    "id_str": "750947769465044992",
-    "text": "Доооброе утро! Я категорически настаиваю на том, что в такую погоду в Питере нужно ходить так: https://t.co/DDruw0SJPI",
+    "created_at": "Fri Jul 08 00:02:38 +0000 2016",
+    "id": 751204812780363800,
+    "id_str": "751204812780363776",
+    "text": "Погода радует как никогда. Просто прелесть. Чем занимаетесь в такую погоду?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/DDruw0SJPI",
-          "expanded_url": "https://www.instagram.com/p/BHc9ktvh1Zl/?taken-by=turclubpik",
-          "display_url": "instagram.com/p/BHc9ktvh1Zl/…",
-          "indices": [
-            95,
-            118
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -73,10 +63,9 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
