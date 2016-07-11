@@ -1,0 +1,784 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 04 09:43:52 +0000 2016",
+      "id": 749901532154499100,
+      "id_str": "749901532154499072",
+      "text": "Всем привет! Я Валентин Афанасьев. Я руководитель турклуба, триатлет (готовлюсь к Ironman) и отец. О чем рассказать? https://t.co/RSxbZ7yIB0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 749901383541911600,
+            "id_str": "749901383541911553",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmgvVc6W8AEuhFW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmgvVc6W8AEuhFW.jpg",
+            "url": "https://t.co/RSxbZ7yIB0",
+            "display_url": "pic.twitter.com/RSxbZ7yIB0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/749901532154499072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 749901383541911600,
+            "id_str": "749901383541911553",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmgvVc6W8AEuhFW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmgvVc6W8AEuhFW.jpg",
+            "url": "https://t.co/RSxbZ7yIB0",
+            "display_url": "pic.twitter.com/RSxbZ7yIB0",
+            "expanded_url": "http://twitter.com/spbunderhood/status/749901532154499072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 604,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 12:35:59 +0000 2016",
+      "id": 749944847562342400,
+      "id_str": "749944847562342400",
+      "text": "21 августа планирую пройти соревнования по триатлону: плаванье вокруг Петропавловки 3,8 км, велосипед 180 км, бег 42 км. Приходите болеть!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 12:55:44 +0000 2016",
+      "id": 749949818362028000,
+      "id_str": "749949818362028032",
+      "text": "@dcromster пока останусь красоткой. вечером сменю :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dcromster",
+            "name": "Roman Milovskiy",
+            "id": 81103006,
+            "id_str": "81103006",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 749946629046886400,
+      "in_reply_to_status_id_str": "749946629046886400",
+      "in_reply_to_user_id": 81103006,
+      "in_reply_to_user_id_str": "81103006",
+      "in_reply_to_screen_name": "dcromster",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 13:52:58 +0000 2016",
+      "id": 749964218598826000,
+      "id_str": "749964218598825984",
+      "text": "Сегодня тренировка вокруг петропавловки 2 круга, 4500 метров. https://t.co/ovRbpp3iPp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 749964214899511300,
+            "id_str": "749964214899511296",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cmhoet9XEAAOiO8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cmhoet9XEAAOiO8.jpg",
+            "url": "https://t.co/ovRbpp3iPp",
+            "display_url": "pic.twitter.com/ovRbpp3iPp",
+            "expanded_url": "http://twitter.com/spbunderhood/status/749964218598825984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 749964214899511300,
+            "id_str": "749964214899511296",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cmhoet9XEAAOiO8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cmhoet9XEAAOiO8.jpg",
+            "url": "https://t.co/ovRbpp3iPp",
+            "display_url": "pic.twitter.com/ovRbpp3iPp",
+            "expanded_url": "http://twitter.com/spbunderhood/status/749964218598825984/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 403,
+                "h": 604,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 14:00:29 +0000 2016",
+      "id": 749966111760875500,
+      "id_str": "749966111760875520",
+      "text": "Мой профиль в Инстраграм для любителей картинок с горами, ныряющими на 10 метров детьми, триатлоном и фридайвингом https://t.co/468eDj478K",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/468eDj478K",
+            "expanded_url": "https://www.instagram.com/turclubpik/",
+            "display_url": "instagram.com/turclubpik/",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 17:20:08 +0000 2016",
+      "id": 750016355127029800,
+      "id_str": "750016355127029760",
+      "text": "Моему сыну Фёдору три года и он ныряет на 10 метров на задержке дыхания. https://t.co/jDDqRnNmiq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jDDqRnNmiq",
+            "expanded_url": "http://vk.com/video?section=all&z=video24770_171130156%2Falbum24770%2Fpl_24770",
+            "display_url": "vk.com/video?section=…",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 04 21:25:07 +0000 2016",
+      "id": 750078009202409500,
+      "id_str": "750078009202409472",
+      "text": "Тем, кто ложится спать, спокойного сна. Заплыв вокруг Петропавловки закончил заполночь https://t.co/DDruw0SJPI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DDruw0SJPI",
+            "expanded_url": "https://www.instagram.com/p/BHc9ktvh1Zl/?taken-by=turclubpik",
+            "display_url": "instagram.com/p/BHc9ktvh1Zl/…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 07:34:55 +0000 2016",
+      "id": 750231470267039700,
+      "id_str": "750231470267039744",
+      "text": "Доброе утро! Погодка пока не радует, но в выходные обещают хорошую погоду. Поехали на сплав по Вуоксе на байдарках? https://t.co/dcF7hbErqS",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dcF7hbErqS",
+            "expanded_url": "http://turclub-pik.ru/pohod/vuoksa1/",
+            "display_url": "turclub-pik.ru/pohod/vuoksa1/",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 12:26:06 +0000 2016",
+      "id": 750304747131965400,
+      "id_str": "750304747131965440",
+      "text": "@AliasAirlines мы начали с рождения. Сейчас он очень любит это дело. И плаванье в целом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AliasAirlines",
+            "name": "Михаил Архипов",
+            "id": 196277307,
+            "id_str": "196277307",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 750235078756892700,
+      "in_reply_to_status_id_str": "750235078756892672",
+      "in_reply_to_user_id": 196277307,
+      "in_reply_to_user_id_str": "196277307",
+      "in_reply_to_screen_name": "AliasAirlines",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 12:28:30 +0000 2016",
+      "id": 750305350331564000,
+      "id_str": "750305350331564032",
+      "text": "Я давно собирался делать редизайн сайта turclub-pik.ru Но внезапно пользователи проголосовали за то чтобы оставить пластилин. Что думаете?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 14:32:28 +0000 2016",
+      "id": 750336550895022100,
+      "id_str": "750336550895022080",
+      "text": "https://t.co/v1tlZfEReu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v1tlZfEReu",
+            "expanded_url": "https://vk.com/valent?z=photo24770_417576221%2Fwall24770_10642",
+            "display_url": "vk.com/valent?z=photo…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jul 05 15:04:45 +0000 2016",
+      "id": 750344674108436500,
+      "id_str": "750344674108436481",
+      "text": "Погода шепчет. Выезжаю на велотренировку 65 км. А вам всего доброго, хорошего настроения, здоровья!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 05 18:51:17 +0000 2016",
+      "id": 750401684329861100,
+      "id_str": "750401684329861121",
+      "text": "Немного мимими в ваши ленты на ночь. Это мы с Таней: https://t.co/wKeUcAon2e",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wKeUcAon2e",
+            "expanded_url": "https://vk.com/video?section=all&z=video24770_160514582%2Falbum24770%2Fpl_24770",
+            "display_url": "vk.com/video?section=…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 07 07:01:14 +0000 2016",
+      "id": 750947769465045000,
+      "id_str": "750947769465044992",
+      "text": "Доооброе утро! Я категорически настаиваю на том, что в такую погоду в Питере нужно ходить так: https://t.co/DDruw0SJPI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DDruw0SJPI",
+            "expanded_url": "https://www.instagram.com/p/BHc9ktvh1Zl/?taken-by=turclubpik",
+            "display_url": "instagram.com/p/BHc9ktvh1Zl/…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 08 00:02:38 +0000 2016",
+      "id": 751204812780363800,
+      "id_str": "751204812780363776",
+      "text": "Погода радует как никогда. Просто прелесть. Чем занимаетесь в такую погоду?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        634945494
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
