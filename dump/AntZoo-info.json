@@ -26,107 +26,28 @@
     }
   },
   "protected": false,
-  "followers_count": 261,
+  "followers_count": 256,
   "friends_count": 40,
   "listed_count": 12,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 65,
+  "favourites_count": 67,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 974,
+  "statuses_count": 1038,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 12 17:44:53 +0000 2016",
-    "id": 752921688443129900,
-    "id_str": "752921688443129857",
-    "text": "А ещё скейт купил-таки. Жаль, мокро, не обкатаю сразу. Завтра. Soon(tm). https://t.co/4ehMpxM9Hd",
+    "created_at": "Fri Jul 15 12:28:10 +0000 2016",
+    "id": 753929147345408000,
+    "id_str": "753929147345408000",
+    "text": "Вышли ехать на дачу, пока садились в машину, ливануло так, что я промок до нитки и сижу в луже. Как отъехали, дождь почти перестал. 😒",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 752921682969497600,
-          "id_str": "752921682969497600",
-          "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/CnLqSBEWEAAVjP1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CnLqSBEWEAAVjP1.jpg",
-          "url": "https://t.co/4ehMpxM9Hd",
-          "display_url": "pic.twitter.com/4ehMpxM9Hd",
-          "expanded_url": "http://twitter.com/spbunderhood/status/752921688443129857/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 674,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1150,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 382,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 752921682969497600,
-          "id_str": "752921682969497600",
-          "indices": [
-            73,
-            96
-          ],
-          "media_url": "http://pbs.twimg.com/media/CnLqSBEWEAAVjP1.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CnLqSBEWEAAVjP1.jpg",
-          "url": "https://t.co/4ehMpxM9Hd",
-          "display_url": "pic.twitter.com/4ehMpxM9Hd",
-          "expanded_url": "http://twitter.com/spbunderhood/status/752921688443129857/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 674,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1150,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 382,
-              "h": 680,
-              "resize": "fit"
-            }
-          },
-          "ext_alt_text": null
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -145,7 +66,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

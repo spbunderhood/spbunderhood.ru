@@ -5881,6 +5881,5762 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 12 19:21:19 +0000 2016",
+      "id": 752945953489948700,
+      "id_str": "752945953489948672",
+      "text": "RT @HornedKavu: Был под ванной. Застрял под ванной. Хороший вечер, насыщенный.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HornedKavu",
+            "name": "Max Riveiro",
+            "id": 14075398,
+            "id_str": "14075398",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Jul 12 19:03:14 +0000 2016",
+        "id": 752941405295771600,
+        "id_str": "752941405295771648",
+        "text": "Был под ванной. Застрял под ванной. Хороший вечер, насыщенный.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14075398,
+          "id_str": "14075398"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 04:47:07 +0000 2016",
+      "id": 753088344893063200,
+      "id_str": "753088344893063169",
+      "text": "Доброе утро! Вчера, пока до Твиттера добрался, отрубился полностью. Зато посмотрел Тарантиновскую восьмёрку - и до сих пор под впечатлением.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 04:57:08 +0000 2016",
+      "id": 753090865988501500,
+      "id_str": "753090865988501504",
+      "text": "Догоняя вчерашнее - обедали мы в Сити Бургере на канале Грибоедова. Очень классное место. Бургерных в последнее время наоткрывалось - тьма.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 04:57:17 +0000 2016",
+      "id": 753090902592217100,
+      "id_str": "753090902592217094",
+      "text": "RT @AntZoo: Для спбандерхуд https://t.co/KJ4284w7Be",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntZoo",
+            "name": "Anton Zujev",
+            "id": 16838181,
+            "id_str": "16838181",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 752995821218660400,
+            "id_str": "752995821218660352",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+            "url": "https://t.co/KJ4284w7Be",
+            "display_url": "pic.twitter.com/KJ4284w7Be",
+            "expanded_url": "http://twitter.com/AntZoo/status/752995825270358017/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1147,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 672,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752995825270358000,
+            "source_status_id_str": "752995825270358017",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752995821218660400,
+            "id_str": "752995821218660352",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+            "url": "https://t.co/KJ4284w7Be",
+            "display_url": "pic.twitter.com/KJ4284w7Be",
+            "expanded_url": "http://twitter.com/AntZoo/status/752995825270358017/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1147,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 672,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752995825270358000,
+            "source_status_id_str": "752995825270358017",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Jul 12 22:39:29 +0000 2016",
+        "id": 752995825270358000,
+        "id_str": "752995825270358017",
+        "text": "Для спбандерхуд https://t.co/KJ4284w7Be",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 752995821218660400,
+              "id_str": "752995821218660352",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+              "url": "https://t.co/KJ4284w7Be",
+              "display_url": "pic.twitter.com/KJ4284w7Be",
+              "expanded_url": "http://twitter.com/AntZoo/status/752995825270358017/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1147,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 672,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 752995821218660400,
+              "id_str": "752995821218660352",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMttbkXgAAHSkg.jpg",
+              "url": "https://t.co/KJ4284w7Be",
+              "display_url": "pic.twitter.com/KJ4284w7Be",
+              "expanded_url": "http://twitter.com/AntZoo/status/752995825270358017/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1147,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 672,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16838181,
+          "id_str": "16838181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "uk"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Jul 13 04:57:23 +0000 2016",
+      "id": 753090927237951500,
+      "id_str": "753090927237951493",
+      "text": "RT @AntZoo: Для спбандерхуд https://t.co/1TSxVBr9gw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntZoo",
+            "name": "Anton Zujev",
+            "id": 16838181,
+            "id_str": "16838181",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 752995943029567500,
+            "id_str": "752995943029567488",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+            "url": "https://t.co/1TSxVBr9gw",
+            "display_url": "pic.twitter.com/1TSxVBr9gw",
+            "expanded_url": "http://twitter.com/AntZoo/status/752995947622371328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1147,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 672,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752995947622371300,
+            "source_status_id_str": "752995947622371328",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752995943029567500,
+            "id_str": "752995943029567488",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+            "url": "https://t.co/1TSxVBr9gw",
+            "display_url": "pic.twitter.com/1TSxVBr9gw",
+            "expanded_url": "http://twitter.com/AntZoo/status/752995947622371328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1147,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 381,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 672,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752995947622371300,
+            "source_status_id_str": "752995947622371328",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Jul 12 22:39:58 +0000 2016",
+        "id": 752995947622371300,
+        "id_str": "752995947622371328",
+        "text": "Для спбандерхуд https://t.co/1TSxVBr9gw",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 752995943029567500,
+              "id_str": "752995943029567488",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+              "url": "https://t.co/1TSxVBr9gw",
+              "display_url": "pic.twitter.com/1TSxVBr9gw",
+              "expanded_url": "http://twitter.com/AntZoo/status/752995947622371328/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 2048,
+                  "h": 1147,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 672,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 752995943029567500,
+              "id_str": "752995943029567488",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMt0hWWcAAGMF8.jpg",
+              "url": "https://t.co/1TSxVBr9gw",
+              "display_url": "pic.twitter.com/1TSxVBr9gw",
+              "expanded_url": "http://twitter.com/AntZoo/status/752995947622371328/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 2048,
+                  "h": 1147,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 381,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 672,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16838181,
+          "id_str": "16838181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "uk"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Jul 13 04:57:29 +0000 2016",
+      "id": 753090954408722400,
+      "id_str": "753090954408722432",
+      "text": "RT @AntZoo: Для спбандерхуд https://t.co/3fp5xvdWaU",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AntZoo",
+            "name": "Anton Zujev",
+            "id": 16838181,
+            "id_str": "16838181",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 752996004392304600,
+            "id_str": "752996004392304640",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+            "url": "https://t.co/3fp5xvdWaU",
+            "display_url": "pic.twitter.com/3fp5xvdWaU",
+            "expanded_url": "http://twitter.com/AntZoo/status/752996008322367489/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1153,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752996008322367500,
+            "source_status_id_str": "752996008322367489",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752996004392304600,
+            "id_str": "752996004392304640",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+            "url": "https://t.co/3fp5xvdWaU",
+            "display_url": "pic.twitter.com/3fp5xvdWaU",
+            "expanded_url": "http://twitter.com/AntZoo/status/752996008322367489/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 676,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1153,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752996008322367500,
+            "source_status_id_str": "752996008322367489",
+            "source_user_id": 16838181,
+            "source_user_id_str": "16838181",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Jul 12 22:40:13 +0000 2016",
+        "id": 752996008322367500,
+        "id_str": "752996008322367489",
+        "text": "Для спбандерхуд https://t.co/3fp5xvdWaU",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 752996004392304600,
+              "id_str": "752996004392304640",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+              "url": "https://t.co/3fp5xvdWaU",
+              "display_url": "pic.twitter.com/3fp5xvdWaU",
+              "expanded_url": "http://twitter.com/AntZoo/status/752996008322367489/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 676,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1153,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 752996004392304600,
+              "id_str": "752996004392304640",
+              "indices": [
+                16,
+                39
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnMt4F8XgAAz26p.jpg",
+              "url": "https://t.co/3fp5xvdWaU",
+              "display_url": "pic.twitter.com/3fp5xvdWaU",
+              "expanded_url": "http://twitter.com/AntZoo/status/752996008322367489/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 383,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 676,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1153,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 16838181,
+          "id_str": "16838181"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "uk"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Wed Jul 13 05:05:41 +0000 2016",
+      "id": 753093014109687800,
+      "id_str": "753093014109687808",
+      "text": "План по шагам, кстати, перевыполнил-таки в 3,5 раза. https://t.co/EOxXYyA9bF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753092880999321600,
+            "id_str": "753092880999321600",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOF_DbXEAA36Kz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOF_DbXEAA36Kz.jpg",
+            "url": "https://t.co/EOxXYyA9bF",
+            "display_url": "pic.twitter.com/EOxXYyA9bF",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753093014109687808/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753092880999321600,
+            "id_str": "753092880999321600",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOF_DbXEAA36Kz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOF_DbXEAA36Kz.jpg",
+            "url": "https://t.co/EOxXYyA9bF",
+            "display_url": "pic.twitter.com/EOxXYyA9bF",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753093014109687808/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 05:31:35 +0000 2016",
+      "id": 753099534331441200,
+      "id_str": "753099534331441152",
+      "text": "А ещё мы завернули в Drum Fitness (https://t.co/kRdryby45t). Друг Коля там отвлекается от работы. :) Никогда до этого не играл на барабанах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kRdryby45t",
+            "expanded_url": "http://drumfitness.ru/",
+            "display_url": "drumfitness.ru",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 05:32:22 +0000 2016",
+      "id": 753099730511663100,
+      "id_str": "753099730511663104",
+      "text": "Это оказалось очень круто. :) Чуть попозже выложу видео моих попыток попасть в ритм. После пива в City Burger было непросто. :D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 06:47:10 +0000 2016",
+      "id": 753118553943973900,
+      "id_str": "753118553943973889",
+      "text": "Фотка из бургерной. https://t.co/9Z7Tqbv038",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753118524734922800,
+            "id_str": "753118524734922753",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOdTtyXYAE9_sH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOdTtyXYAE9_sH.jpg",
+            "url": "https://t.co/9Z7Tqbv038",
+            "display_url": "pic.twitter.com/9Z7Tqbv038",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753118553943973889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753118524734922800,
+            "id_str": "753118524734922753",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOdTtyXYAE9_sH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOdTtyXYAE9_sH.jpg",
+            "url": "https://t.co/9Z7Tqbv038",
+            "display_url": "pic.twitter.com/9Z7Tqbv038",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753118553943973889/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 07:08:55 +0000 2016",
+      "id": 753124027405918200,
+      "id_str": "753124027405918208",
+      "text": "@i_told_ya потому что он мне нравится. Пересел с айфона, с четвёрки, и не нарадуюсь. Сейчас хожу с Люмией 950. https://t.co/i3lDR5uCS9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "i_told_ya",
+            "name": "Isaev Igor",
+            "id": 301020946,
+            "id_str": "301020946",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/i3lDR5uCS9",
+            "expanded_url": "https://twitter.com/i_told_ya/status/753122680107364352",
+            "display_url": "twitter.com/i_told_ya/stat…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 301020946,
+      "in_reply_to_user_id_str": "301020946",
+      "in_reply_to_screen_name": "i_told_ya",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753122680107364400,
+      "quoted_status_id_str": "753122680107364352",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 07:03:33 +0000 2016",
+        "id": 753122680107364400,
+        "id_str": "753122680107364352",
+        "text": "@spbunderhood почему у тебя виндовз фон? Ты же нормально зарабатываешь, программист все дела",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 753093014109687800,
+        "in_reply_to_status_id_str": "753093014109687808",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 301020946,
+          "id_str": "301020946"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 07:15:54 +0000 2016",
+      "id": 753125787939827700,
+      "id_str": "753125787939827714",
+      "text": "Кстати, в Сити бургере очень неплохое City Beer и прерасный острый Red Bull Burger. Я вчера почти прослезился, пока его ел. То, что надо! :D",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 07:31:05 +0000 2016",
+      "id": 753129606685847600,
+      "id_str": "753129606685847553",
+      "text": "Вот поэтому я учу своих детей обходить люки. https://t.co/8HWqnY3hXg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8HWqnY3hXg",
+            "expanded_url": "https://twitter.com/paperpaper_ru/status/753128691274776576",
+            "display_url": "twitter.com/paperpaper_ru/…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753128691274776600,
+      "quoted_status_id_str": "753128691274776576",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 07:27:27 +0000 2016",
+        "id": 753128691274776600,
+        "id_str": "753128691274776576",
+        "text": "Женщина с маленьким ребенком провалились в канализационный люк\nhttps://t.co/G7KXlv9d0B https://t.co/gimZq8yyXt",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/G7KXlv9d0B",
+              "expanded_url": "http://paperpaper.ru/papernews/2016/07/13/lyk/",
+              "display_url": "paperpaper.ru/papernews/2016…",
+              "indices": [
+                63,
+                86
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 753128630528700400,
+              "id_str": "753128630528700416",
+              "indices": [
+                87,
+                110
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnOmf8zW8AABxV1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnOmf8zW8AABxV1.jpg",
+              "url": "https://t.co/gimZq8yyXt",
+              "display_url": "pic.twitter.com/gimZq8yyXt",
+              "expanded_url": "http://twitter.com/paperpaper_ru/status/753128691274776576/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 467,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 700,
+                  "h": 467,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 753128630528700400,
+              "id_str": "753128630528700416",
+              "indices": [
+                87,
+                110
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnOmf8zW8AABxV1.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnOmf8zW8AABxV1.jpg",
+              "url": "https://t.co/gimZq8yyXt",
+              "display_url": "pic.twitter.com/gimZq8yyXt",
+              "expanded_url": "http://twitter.com/paperpaper_ru/status/753128691274776576/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 454,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 700,
+                  "h": 467,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 700,
+                  "h": 467,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 205430752,
+          "id_str": "205430752"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 07:55:21 +0000 2016",
+      "id": 753135714431369200,
+      "id_str": "753135714431369216",
+      "text": "RT @Yoghikitt: вот какая игра мне нужна https://t.co/eLEF1sHPM9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Yoghikitt",
+            "name": "Никотинка с Бровями",
+            "id": 88242468,
+            "id_str": "88242468",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 752931160288886800,
+            "id_str": "752931160288886784",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+            "url": "https://t.co/eLEF1sHPM9",
+            "display_url": "pic.twitter.com/eLEF1sHPM9",
+            "expanded_url": "http://twitter.com/Yoghikitt/status/752931217947889665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752931217947889700,
+            "source_status_id_str": "752931217947889665",
+            "source_user_id": 88242468,
+            "source_user_id_str": "88242468"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 752931160288886800,
+            "id_str": "752931160288886784",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+            "url": "https://t.co/eLEF1sHPM9",
+            "display_url": "pic.twitter.com/eLEF1sHPM9",
+            "expanded_url": "http://twitter.com/Yoghikitt/status/752931217947889665/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 750,
+                "h": 1334,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 752931217947889700,
+            "source_status_id_str": "752931217947889665",
+            "source_user_id": 88242468,
+            "source_user_id_str": "88242468",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Jul 12 18:22:45 +0000 2016",
+        "id": 752931217947889700,
+        "id_str": "752931217947889665",
+        "text": "вот какая игра мне нужна https://t.co/eLEF1sHPM9",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 752931160288886800,
+              "id_str": "752931160288886784",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+              "url": "https://t.co/eLEF1sHPM9",
+              "display_url": "pic.twitter.com/eLEF1sHPM9",
+              "expanded_url": "http://twitter.com/Yoghikitt/status/752931217947889665/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 750,
+                  "h": 1334,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 382,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 752931160288886800,
+              "id_str": "752931160288886784",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnLy5q1XgAAnZMn.jpg",
+              "url": "https://t.co/eLEF1sHPM9",
+              "display_url": "pic.twitter.com/eLEF1sHPM9",
+              "expanded_url": "http://twitter.com/Yoghikitt/status/752931217947889665/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 750,
+                  "h": 1334,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 675,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 382,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 88242468,
+          "id_str": "88242468"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 171,
+        "favorite_count": 172,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 171,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:19:53 +0000 2016",
+      "id": 753141886752264200,
+      "id_str": "753141886752264192",
+      "text": "Ну что, двинули? https://t.co/KIZMT43PSE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753141869656305700,
+            "id_str": "753141869656305664",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOyikZWcAAcyTH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOyikZWcAAcyTH.jpg",
+            "url": "https://t.co/KIZMT43PSE",
+            "display_url": "pic.twitter.com/KIZMT43PSE",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753141886752264192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1149,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 674,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753141869656305700,
+            "id_str": "753141869656305664",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOyikZWcAAcyTH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOyikZWcAAcyTH.jpg",
+            "url": "https://t.co/KIZMT43PSE",
+            "display_url": "pic.twitter.com/KIZMT43PSE",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753141886752264192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1149,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 674,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 382,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:20:34 +0000 2016",
+      "id": 753142058735525900,
+      "id_str": "753142058735525888",
+      "text": "Этажа четыре подниматься придётся. https://t.co/W0A6RdV19j",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753142037160034300,
+            "id_str": "753142037160034304",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOysUZWgAAQscR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOysUZWgAAQscR.jpg",
+            "url": "https://t.co/W0A6RdV19j",
+            "display_url": "pic.twitter.com/W0A6RdV19j",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753142058735525888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753142037160034300,
+            "id_str": "753142037160034304",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnOysUZWgAAQscR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnOysUZWgAAQscR.jpg",
+            "url": "https://t.co/W0A6RdV19j",
+            "display_url": "pic.twitter.com/W0A6RdV19j",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753142058735525888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:27:39 +0000 2016",
+      "id": 753143844045262800,
+      "id_str": "753143844045262848",
+      "text": "City Burger. Это на Грибоедова, напротив Казанского, через канал. https://t.co/t1Cz6Ua3k7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t1Cz6Ua3k7",
+            "expanded_url": "https://twitter.com/uredoingitwrong/status/753141741851639808",
+            "display_url": "twitter.com/uredoingitwron…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753141741851639800,
+      "quoted_status_id_str": "753141741851639808",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 08:19:18 +0000 2016",
+        "id": 753141741851639800,
+        "id_str": "753141741851639808",
+        "text": "@spbunderhood а что за бургерная?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 753118553943973900,
+        "in_reply_to_status_id_str": "753118553943973889",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 169871113,
+          "id_str": "169871113"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:28:48 +0000 2016",
+      "id": 753144132105830400,
+      "id_str": "753144132105830401",
+      "text": "Чердак, ессно, захламлён. На полу старые ботинки, одежда, мусор. https://t.co/I2IzCq0MEW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753143982805385200,
+            "id_str": "753143982805385216",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO0dkfWgAAPdmv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO0dkfWgAAPdmv.jpg",
+            "url": "https://t.co/I2IzCq0MEW",
+            "display_url": "pic.twitter.com/I2IzCq0MEW",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144132105830401/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753143982805385200,
+            "id_str": "753143982805385216",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO0dkfWgAAPdmv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO0dkfWgAAPdmv.jpg",
+            "url": "https://t.co/I2IzCq0MEW",
+            "display_url": "pic.twitter.com/I2IzCq0MEW",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144132105830401/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 674,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1150,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 382,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:29:22 +0000 2016",
+      "id": 753144276041818100,
+      "id_str": "753144276041818112",
+      "text": "Окно в Евр... Ээ, на крышу. https://t.co/bSzQlpQY6v",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753144224737005600,
+            "id_str": "753144224737005568",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO0rpwWEAAqHFh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO0rpwWEAAqHFh.jpg",
+            "url": "https://t.co/bSzQlpQY6v",
+            "display_url": "pic.twitter.com/bSzQlpQY6v",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144276041818112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 899,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1714,
+                "h": 1284,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753144224737005600,
+            "id_str": "753144224737005568",
+            "indices": [
+              28,
+              51
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO0rpwWEAAqHFh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO0rpwWEAAqHFh.jpg",
+            "url": "https://t.co/bSzQlpQY6v",
+            "display_url": "pic.twitter.com/bSzQlpQY6v",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144276041818112/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 899,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1714,
+                "h": 1284,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:30:44 +0000 2016",
+      "id": 753144617583935500,
+      "id_str": "753144617583935488",
+      "text": "Мда. А вот с крышными фотками вышло не очень. Сейчас уже с диванчика пишу. :) Там заборов понаставили, не пройти. https://t.co/8hUEfEt0Qm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753144468375756800,
+            "id_str": "753144468375756800",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO051YWYAAxa8X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO051YWYAAxa8X.jpg",
+            "url": "https://t.co/8hUEfEt0Qm",
+            "display_url": "pic.twitter.com/8hUEfEt0Qm",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144617583935488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1534,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 899,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753144468375756800,
+            "id_str": "753144468375756800",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO051YWYAAxa8X.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO051YWYAAxa8X.jpg",
+            "url": "https://t.co/8hUEfEt0Qm",
+            "display_url": "pic.twitter.com/8hUEfEt0Qm",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144617583935488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1534,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 899,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753144435110740000,
+            "id_str": "753144435110739968",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO035dWgAA4KsM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO035dWgAA4KsM.jpg",
+            "url": "https://t.co/8hUEfEt0Qm",
+            "display_url": "pic.twitter.com/8hUEfEt0Qm",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144617583935488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 304,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 520,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 172,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753144456807866400,
+            "id_str": "753144456807866368",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnO05KSWYAAZpLy.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnO05KSWYAAZpLy.jpg",
+            "url": "https://t.co/8hUEfEt0Qm",
+            "display_url": "pic.twitter.com/8hUEfEt0Qm",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753144617583935488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 898,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1623,
+                "h": 1215,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 509,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:32:11 +0000 2016",
+      "id": 753144985642475500,
+      "id_str": "753144985642475520",
+      "text": "Да и на фронтальную камеру фиг пофоткаешь. :D Посмотрим. Может быть, предприму ещё вылазку в пятницу утром, прежде чем уехать на дачу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:38:33 +0000 2016",
+      "id": 753146587220734000,
+      "id_str": "753146587220733952",
+      "text": "Кстати, неподалёку от той бургерной, в той же подворотне, где находится Drum Fitness, есть ещё одно крутое место.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:39:47 +0000 2016",
+      "id": 753146896043151400,
+      "id_str": "753146896043151360",
+      "text": "Crazy Craft, там можно попробовать отличные эли и пиво и пообщаться с пивоварами, которые их варят.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 08:40:33 +0000 2016",
+      "id": 753147089111187500,
+      "id_str": "753147089111187456",
+      "text": "Если слово \"триппель\" или \"квадрупель\" для вас - не просто забавный набор звуков, сходите туда, не пожалеете.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 09:29:29 +0000 2016",
+      "id": 753159402035769300,
+      "id_str": "753159402035769345",
+      "text": "А вот и обещанное видео: https://t.co/p07cUf6qwW",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/p07cUf6qwW",
+            "expanded_url": "https://youtu.be/qreeRBbl8LA",
+            "display_url": "youtu.be/qreeRBbl8LA",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 10:53:30 +0000 2016",
+      "id": 753180545736183800,
+      "id_str": "753180545736183809",
+      "text": "RT @badgercat: https://t.co/XuyX6bX3Vg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "badgercat",
+            "name": "That's you!",
+            "id": 19856378,
+            "id_str": "19856378",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 753173380090695700,
+            "id_str": "753173380090695680",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+            "url": "https://t.co/XuyX6bX3Vg",
+            "display_url": "pic.twitter.com/XuyX6bX3Vg",
+            "expanded_url": "http://twitter.com/badgercat/status/753173387955040256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 753173387955040300,
+            "source_status_id_str": "753173387955040256",
+            "source_user_id": 19856378,
+            "source_user_id_str": "19856378"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753173380090695700,
+            "id_str": "753173380090695680",
+            "indices": [
+              15,
+              38
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+            "url": "https://t.co/XuyX6bX3Vg",
+            "display_url": "pic.twitter.com/XuyX6bX3Vg",
+            "expanded_url": "http://twitter.com/badgercat/status/753173387955040256/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 753173387955040300,
+            "source_status_id_str": "753173387955040256",
+            "source_user_id": 19856378,
+            "source_user_id_str": "19856378",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Wed Jul 13 10:25:03 +0000 2016",
+        "id": 753173387955040300,
+        "id_str": "753173387955040256",
+        "text": "https://t.co/XuyX6bX3Vg",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 753173380090695700,
+              "id_str": "753173380090695680",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+              "url": "https://t.co/XuyX6bX3Vg",
+              "display_url": "pic.twitter.com/XuyX6bX3Vg",
+              "expanded_url": "http://twitter.com/badgercat/status/753173387955040256/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 753173380090695700,
+              "id_str": "753173380090695680",
+              "indices": [
+                0,
+                23
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnPPMt6WEAAuZFP.jpg",
+              "url": "https://t.co/XuyX6bX3Vg",
+              "display_url": "pic.twitter.com/XuyX6bX3Vg",
+              "expanded_url": "http://twitter.com/badgercat/status/753173387955040256/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 19856378,
+          "id_str": "19856378"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jul 13 12:20:34 +0000 2016",
+      "id": 753202456792883200,
+      "id_str": "753202456792883200",
+      "text": "Да ну, бабло, тренды. Это же фан - и для них, и для учеников. :) https://t.co/acNZTpYLKe",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/acNZTpYLKe",
+            "expanded_url": "https://twitter.com/kkyuru/status/753198933241958400",
+            "display_url": "twitter.com/kkyuru/status/…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753198933241958400,
+      "quoted_status_id_str": "753198933241958400",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 12:06:34 +0000 2016",
+        "id": 753198933241958400,
+        "id_str": "753198933241958400",
+        "text": "Жду появления vocalfitness😂 все таки Барабаны не так популярны. Бабла не срубишь на тренде😂😂😂\nОх. Без теории они😩 https://t.co/GE2HvgF2nq",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/GE2HvgF2nq",
+              "expanded_url": "https://twitter.com/spbunderhood/status/753099534331441152",
+              "display_url": "twitter.com/spbunderhood/s…",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 126254615,
+          "id_str": "126254615"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 753099534331441200,
+        "quoted_status_id_str": "753099534331441152",
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:49:37 +0000 2016",
+      "id": 753315465913565200,
+      "id_str": "753315465913565184",
+      "text": "Ох, ну и денёк. Знать смотрите, какую милоту увидел во дворе на Сенной. https://t.co/5PmMtbVPdI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753315337882525700,
+            "id_str": "753315337882525696",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnRQTv5XYAA5F4q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnRQTv5XYAA5F4q.jpg",
+            "url": "https://t.co/5PmMtbVPdI",
+            "display_url": "pic.twitter.com/5PmMtbVPdI",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753315465913565184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753315337882525700,
+            "id_str": "753315337882525696",
+            "indices": [
+              72,
+              95
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnRQTv5XYAA5F4q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnRQTv5XYAA5F4q.jpg",
+            "url": "https://t.co/5PmMtbVPdI",
+            "display_url": "pic.twitter.com/5PmMtbVPdI",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753315465913565184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 675,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1152,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:50:16 +0000 2016",
+      "id": 753315626769317900,
+      "id_str": "753315626769317888",
+      "text": "*зато \n\nАвтоисправления меня убивают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:54:15 +0000 2016",
+      "id": 753316632861311000,
+      "id_str": "753316632861310976",
+      "text": "Ну вот. До того затормозился, что чуть вместо Финбана не уехал на Двинскую. Не на той остановке 49го стоял.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:55:20 +0000 2016",
+      "id": 753316905331621900,
+      "id_str": "753316905331621888",
+      "text": "И билетик несчастливый, и на работе на два часа задержался, и про то, что пиво после 22 уже не купить забыл. Но главное - билетик. Эх.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:57:25 +0000 2016",
+      "id": 753317427228864500,
+      "id_str": "753317427228864512",
+      "text": "Ой, ещё, в продолжение неудач: вчера в спешке, покупая с рук скейт, вообще на него не посмотрел. Я - счастливый обладатель Walmart board.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:58:50 +0000 2016",
+      "id": 753317783627243500,
+      "id_str": "753317783627243520",
+      "text": "Чтобы из этого сделать нормальную доску, надо купить и поменять траки, колёса, подшипники и деку - собрать их, а это недоразумение выкинуть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 19:59:35 +0000 2016",
+      "id": 753317971980906500,
+      "id_str": "753317971980906496",
+      "text": "И главное, не поверите, подшипники я уже купил. Хотя бы траки ещё. Блин.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 20:01:14 +0000 2016",
+      "id": 753318388714340400,
+      "id_str": "753318388714340353",
+      "text": "Вы извините, меня прорвало. Я ещё пофлужу, и перестану. \n\nА вот вечерний/ночной Питер совершенно потрясающий. Особенно Нева. И набережные.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 20:02:52 +0000 2016",
+      "id": 753318800792117200,
+      "id_str": "753318800792117256",
+      "text": "Завтра будет хорошо, будет солнце и я успею всё, что планирую. Вот увидите. А в планах - быть одновременно на Лиговке и на Пионерской. &gt;_&lt;",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 20:04:37 +0000 2016",
+      "id": 753319241252823000,
+      "id_str": "753319241252823040",
+      "text": "Отчасти я его понимаю. Только вот барная культура - тоже часть Питера. Пускай даже и с мордобоем.  https://t.co/NtUCXT2Es9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NtUCXT2Es9",
+            "expanded_url": "https://twitter.com/paperpaper_ru/status/753258817396285441",
+            "display_url": "twitter.com/paperpaper_ru/…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753258817396285400,
+      "quoted_status_id_str": "753258817396285441",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 16:04:31 +0000 2016",
+        "id": 753258817396285400,
+        "id_str": "753258817396285441",
+        "text": "Директор «Исаакиевского собора» попросил убрать с Думской бары с «мордобоем» \nhttps://t.co/GPAru6chfz",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/GPAru6chfz",
+              "expanded_url": "http://paperpaper.ru/papernews/2016/07/13/bars-away/",
+              "display_url": "paperpaper.ru/papernews/2016…",
+              "indices": [
+                78,
+                101
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 205430752,
+          "id_str": "205430752"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 13 20:08:29 +0000 2016",
+      "id": 753320215283396600,
+      "id_str": "753320215283396608",
+      "text": "Отчасти склонен согласиться. Правда, не гроза - кратковременный ливень. Но и так хорошо.  https://t.co/DbwNHI0PXK",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DbwNHI0PXK",
+            "expanded_url": "https://twitter.com/HornedKavu/status/753319921883512832",
+            "display_url": "twitter.com/HornedKavu/sta…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753319921883512800,
+      "quoted_status_id_str": "753319921883512832",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 20:07:20 +0000 2016",
+        "id": 753319921883512800,
+        "id_str": "753319921883512832",
+        "text": "Какая потрясающая гроза.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14075398,
+          "id_str": "14075398"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 05:42:49 +0000 2016",
+      "id": 753464750571487200,
+      "id_str": "753464750571487232",
+      "text": "Это зависит от исходной точки - он может быть \"не счастливым\", а может быть и \"несчастливым\". :D https://t.co/gUBwddThHr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gUBwddThHr",
+            "expanded_url": "https://twitter.com/JuliaTimoshenko/status/753325847185072128",
+            "display_url": "twitter.com/JuliaTimoshenk…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753325847185072100,
+      "quoted_status_id_str": "753325847185072128",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 20:30:52 +0000 2016",
+        "id": 753325847185072100,
+        "id_str": "753325847185072128",
+        "text": "@spbunderhood как билет может быть не «обычным», а «несчастливым»? Или все билеты, которые одинаковую сумму цифр не дают «несчастливые»?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 753316905331621900,
+        "in_reply_to_status_id_str": "753316905331621888",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 173452035,
+          "id_str": "173452035"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 05:43:57 +0000 2016",
+      "id": 753465033288548400,
+      "id_str": "753465033288548352",
+      "text": "Очень может быть. :) https://t.co/JXj8nJKti7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JXj8nJKti7",
+            "expanded_url": "https://twitter.com/zeihlis/status/753339872656646144",
+            "display_url": "twitter.com/zeihlis/status…",
+            "indices": [
+              21,
+              44
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753339872656646100,
+      "quoted_status_id_str": "753339872656646144",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 21:26:36 +0000 2016",
+        "id": 753339872656646100,
+        "id_str": "753339872656646144",
+        "text": "@spbunderhood City Grill мб?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 753143844045262800,
+        "in_reply_to_status_id_str": "753143844045262848",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 165731497,
+          "id_str": "165731497"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 06:27:33 +0000 2016",
+      "id": 753476005369708500,
+      "id_str": "753476005369708544",
+      "text": "Скорее всего да. :D https://t.co/PaXAPSX7dq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PaXAPSX7dq",
+            "expanded_url": "https://twitter.com/HornedKavu/status/753321530294165504",
+            "display_url": "twitter.com/HornedKavu/sta…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753321530294165500,
+      "quoted_status_id_str": "753321530294165504",
+      "quoted_status": {
+        "created_at": "Wed Jul 13 20:13:43 +0000 2016",
+        "id": 753321530294165500,
+        "id_str": "753321530294165504",
+        "text": "@spbunderhood да, я поторопился чуть-чуть. Но теперь я бы назвал это штормом… Хотя, быть может мы о разном? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 753320215283396600,
+        "in_reply_to_status_id_str": "753320215283396608",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 14075398,
+          "id_str": "14075398"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 10:59:25 +0000 2016",
+      "id": 753544422189662200,
+      "id_str": "753544422189662209",
+      "text": "А давайте, я-таки перестану молчать. :D Планы на сегодня. Через час заканчиваю работу и еду в город. По дороге постараюсь пофоткать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 11:00:18 +0000 2016",
+      "id": 753544647729877000,
+      "id_str": "753544647729876992",
+      "text": "Сегодня в планах Лиговка, Дом Книги, Пионерская, Кронверская, Пионерская, Петроградская. В таком порядке.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 11:01:24 +0000 2016",
+      "id": 753544924071616500,
+      "id_str": "753544924071616512",
+      "text": "Между делом покажу вам шведскую церковь и расскажу, как с ней связан. Уже, правда, давно не - но какое-то время назад да.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 11:30:25 +0000 2016",
+      "id": 753552225205575700,
+      "id_str": "753552225205575681",
+      "text": "Работать осталось полчаса. Пойду поставлю вариться пельмени, иначе в городе совсем оголодаю.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 11:33:12 +0000 2016",
+      "id": 753552926765879300,
+      "id_str": "753552926765879296",
+      "text": "Вот такой вот день. 77 лет назад умер Альфон Муха, знаменитейший и талантливейший художник. https://t.co/PUlp8Ftydz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PUlp8Ftydz",
+            "expanded_url": "https://twitter.com/MinKultury/status/753550322077995008",
+            "display_url": "twitter.com/MinKultury/sta…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753550322077995000,
+      "quoted_status_id_str": "753550322077995008",
+      "quoted_status": {
+        "created_at": "Thu Jul 14 11:22:51 +0000 2016",
+        "id": 753550322077995000,
+        "id_str": "753550322077995008",
+        "text": "Před 77 lety zemřel Alfons Mucha, mimořádný malíř evropské secese. Další osud jeho díla by vydal na celou epopej. https://t.co/uL8MGRzSM9",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 753549482701234200,
+              "id_str": "753549482701234176",
+              "indices": [
+                114,
+                137
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnUlQxUWIAAUSYg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnUlQxUWIAAUSYg.jpg",
+              "url": "https://t.co/uL8MGRzSM9",
+              "display_url": "pic.twitter.com/uL8MGRzSM9",
+              "expanded_url": "http://twitter.com/MinKultury/status/753550322077995008/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 753549482701234200,
+              "id_str": "753549482701234176",
+              "indices": [
+                114,
+                137
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnUlQxUWIAAUSYg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnUlQxUWIAAUSYg.jpg",
+              "url": "https://t.co/uL8MGRzSM9",
+              "display_url": "pic.twitter.com/uL8MGRzSM9",
+              "expanded_url": "http://twitter.com/MinKultury/status/753550322077995008/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 630,
+                  "h": 441,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            },
+            {
+              "id": 753549514649329700,
+              "id_str": "753549514649329664",
+              "indices": [
+                114,
+                137
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnUlSoVXYAAp16Y.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnUlSoVXYAAp16Y.jpg",
+              "url": "https://t.co/uL8MGRzSM9",
+              "display_url": "pic.twitter.com/uL8MGRzSM9",
+              "expanded_url": "http://twitter.com/MinKultury/status/753550322077995008/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 594,
+                  "h": 438,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 594,
+                  "h": 438,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 594,
+                  "h": 438,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            },
+            {
+              "id": 753550085997334500,
+              "id_str": "753550085997334528",
+              "indices": [
+                114,
+                137
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnUlz4xWEAAjkXT.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnUlz4xWEAAjkXT.jpg",
+              "url": "https://t.co/uL8MGRzSM9",
+              "display_url": "pic.twitter.com/uL8MGRzSM9",
+              "expanded_url": "http://twitter.com/MinKultury/status/753550322077995008/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 238,
+                  "h": 699,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 238,
+                  "h": 699,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 232,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            },
+            {
+              "id": 753550101730172900,
+              "id_str": "753550101730172928",
+              "indices": [
+                114,
+                137
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnUl0zYWIAA1s7N.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnUl0zYWIAA1s7N.jpg",
+              "url": "https://t.co/uL8MGRzSM9",
+              "display_url": "pic.twitter.com/uL8MGRzSM9",
+              "expanded_url": "http://twitter.com/MinKultury/status/753550322077995008/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 500,
+                  "h": 344,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 500,
+                  "h": 344,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 344,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 558586515,
+          "id_str": "558586515"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 111,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "cs"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 12:55:58 +0000 2016",
+      "id": 753573755453079600,
+      "id_str": "753573755453079556",
+      "text": "Рыбак. Интересно, спортивный интерес у него или ест то, что ловит\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 14:40:14 +0000 2016",
+      "id": 753599994750459900,
+      "id_str": "753599994750459905",
+      "text": "Интересно, спасибо. А жизнь в Неве (сколько бы она ни длилась) плохо не влияет? https://t.co/i8zc9fW8vD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/i8zc9fW8vD",
+            "expanded_url": "https://twitter.com/ipelekhan/status/753585158364794880",
+            "display_url": "twitter.com/ipelekhan/stat…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 753585158364794900,
+      "quoted_status_id_str": "753585158364794880",
+      "quoted_status": {
+        "created_at": "Thu Jul 14 13:41:17 +0000 2016",
+        "id": 753585158364794900,
+        "id_str": "753585158364794880",
+        "text": "@spbunderhood в целом большинство рыбы в Петербурге растёт где угодно, но не в Неве, поэтому есть можно. Особенно если это форель, например.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 753573755453079600,
+        "in_reply_to_status_id_str": "753573755453079556",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 283466271,
+          "id_str": "283466271"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 15:55:27 +0000 2016",
+      "id": 753618921316581400,
+      "id_str": "753618921316581376",
+      "text": "Вот так уедешь на пять лет, приедешь посмотреть, а район твоего детства изменился до неузнаваемости.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 15:55:41 +0000 2016",
+      "id": 753618983820095500,
+      "id_str": "753618983820095488",
+      "text": "RT @ipelekhan: @spbunderhood точно не подскажу, но видел экспертизы рыбы из Невы, всё в пределах нормы",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipelekhan",
+            "name": "Igor Pelekhan",
+            "id": 283466271,
+            "id_str": "283466271",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              15,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Jul 14 15:53:12 +0000 2016",
+        "id": 753618358470316000,
+        "id_str": "753618358470316032",
+        "text": "@spbunderhood точно не подскажу, но видел экспертизы рыбы из Невы, всё в пределах нормы",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 753599994750459900,
+        "in_reply_to_status_id_str": "753599994750459905",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 283466271,
+          "id_str": "283466271"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "a76c0cd7d56c4836",
+          "url": "https://api.twitter.com/1.1/geo/id/a76c0cd7d56c4836.json",
+          "place_type": "city",
+          "name": "Санкт-Петербург",
+          "full_name": "Санкт-Петербург, Россия",
+          "country_code": "RU",
+          "country": "Россия",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  30.0896894,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  59.7761714
+                ],
+                [
+                  30.5677067,
+                  60.0921253
+                ],
+                [
+                  30.0896894,
+                  60.0921253
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 14 15:58:48 +0000 2016",
+      "id": 753619767714545700,
+      "id_str": "753619767714545664",
+      "text": "Вообще, родился я на Луначарского, в садик ходил на Королёва, а в школу - на Куйбышева. А изменился район метро Пионерская, мост отгрохали.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 05:56:25 +0000 2016",
+      "id": 753830561228005400,
+      "id_str": "753830561228005377",
+      "text": "И вот опять еле встал. Вчера до 2 ночи смотрели Властелина Колец. Я когда-то недосмотрел третий фильм, надо было наверстать.\n\nДоброе утро.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:38:58 +0000 2016",
+      "id": 753841265704173600,
+      "id_str": "753841265704173568",
+      "text": "Вчера находил почти 20 тысяч шагов, было приятно, но ноги после последних дней слегка гудят.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:40:05 +0000 2016",
+      "id": 753841547196506100,
+      "id_str": "753841547196506113",
+      "text": "Вот таких вот персонажей увидел по дороге. Первого у Галереи, второго у Дома Книги. https://t.co/4APqJjvUWI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753841426010517500,
+            "id_str": "753841426010517504",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYuyG5UsAAYC0s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYuyG5UsAAYC0s.jpg",
+            "url": "https://t.co/4APqJjvUWI",
+            "display_url": "pic.twitter.com/4APqJjvUWI",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841547196506113/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 678,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 384,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1157,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753841426010517500,
+            "id_str": "753841426010517504",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYuyG5UsAAYC0s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYuyG5UsAAYC0s.jpg",
+            "url": "https://t.co/4APqJjvUWI",
+            "display_url": "pic.twitter.com/4APqJjvUWI",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841547196506113/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 678,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 384,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1157,
+                "h": 2048,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753841430091538400,
+            "id_str": "753841430091538432",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYuyWGUIAAHJa0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYuyWGUIAAHJa0.jpg",
+            "url": "https://t.co/4APqJjvUWI",
+            "display_url": "pic.twitter.com/4APqJjvUWI",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841547196506113/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 678,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1157,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 384,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:40:42 +0000 2016",
+      "id": 753841704650678300,
+      "id_str": "753841704650678272",
+      "text": "Галерея, вообще, отличный ТЦ - в первую очередь тем, что прекрасно вписывается в стиль питерского центра.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:41:45 +0000 2016",
+      "id": 753841966832422900,
+      "id_str": "753841966832422912",
+      "text": "Ну а это - Шведский переулок. Важное место для всех шведистов. Здесь расположилось шведское консульство. https://t.co/zmrCeQrwe7",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753841758992117800,
+            "id_str": "753841758992117760",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYvFfWUsAAjr63.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYvFfWUsAAjr63.jpg",
+            "url": "https://t.co/zmrCeQrwe7",
+            "display_url": "pic.twitter.com/zmrCeQrwe7",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841966832422912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753841758992117800,
+            "id_str": "753841758992117760",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYvFfWUsAAjr63.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYvFfWUsAAjr63.jpg",
+            "url": "https://t.co/zmrCeQrwe7",
+            "display_url": "pic.twitter.com/zmrCeQrwe7",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841966832422912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753841765950423000,
+            "id_str": "753841765950423040",
+            "indices": [
+              105,
+              128
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYvF5RUAAAAkxw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYvF5RUAAAAkxw.jpg",
+            "url": "https://t.co/zmrCeQrwe7",
+            "display_url": "pic.twitter.com/zmrCeQrwe7",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753841966832422912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1103,
+                "h": 393,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 242,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1103,
+                "h": 393,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:42:59 +0000 2016",
+      "id": 753842277584212000,
+      "id_str": "753842277584211968",
+      "text": "А рядом с ним - шведская церковь. В советское время в этой церкви был спортзал, тут играли в баскетбол. Сейчас её вернули шведам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:44:15 +0000 2016",
+      "id": 753842595663523800,
+      "id_str": "753842595663523840",
+      "text": "Там проходят службы и отмечаются шведские церковные (и не очень) праздники. 13-го декабря здесь ежегодно поют песни на День св. Люсии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:45:08 +0000 2016",
+      "id": 753842817701548000,
+      "id_str": "753842817701548032",
+      "text": "Поёт их хор филологов-шведистов. :D С 2005 по 2010 я регулярно участвовал в этом событии, так как учился на филфаке, на шведиста.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 06:49:36 +0000 2016",
+      "id": 753843942274117600,
+      "id_str": "753843942274117632",
+      "text": "Вон, в коричневом колпаке - я. А на второй фотке мы уже поём. https://t.co/pOmeg3p6YD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 753843821436293100,
+            "id_str": "753843821436293120",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYw9ijVUAAINsH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYw9ijVUAAINsH.jpg",
+            "url": "https://t.co/pOmeg3p6YD",
+            "display_url": "pic.twitter.com/pOmeg3p6YD",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753843942274117632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753843821436293100,
+            "id_str": "753843821436293120",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYw9ijVUAAINsH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYw9ijVUAAINsH.jpg",
+            "url": "https://t.co/pOmeg3p6YD",
+            "display_url": "pic.twitter.com/pOmeg3p6YD",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753843942274117632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          },
+          {
+            "id": 753843850624413700,
+            "id_str": "753843850624413696",
+            "indices": [
+              62,
+              85
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnYw_PSUsAA3NF3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnYw_PSUsAA3NF3.jpg",
+            "url": "https://t.co/pOmeg3p6YD",
+            "display_url": "pic.twitter.com/pOmeg3p6YD",
+            "expanded_url": "http://twitter.com/spbunderhood/status/753843942274117632/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            },
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 07:42:52 +0000 2016",
+      "id": 753857348565868500,
+      "id_str": "753857348565868544",
+      "text": "RT @sergeymeza: Смотрю в телефон и это напоминает мне время проведенное в Нью-Йорке, я там тоже частенько смотрел в телефон.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sergeymeza",
+            "name": "Серёжа Мезенцев",
+            "id": 49947565,
+            "id_str": "49947565",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Wed Jul 13 10:09:26 +0000 2016",
+        "id": 753169457011392500,
+        "id_str": "753169457011392512",
+        "text": "Смотрю в телефон и это напоминает мне время проведенное в Нью-Йорке, я там тоже частенько смотрел в телефон.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49947565,
+          "id_str": "49947565"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 119,
+        "favorite_count": 262,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 119,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 07:56:44 +0000 2016",
+      "id": 753860838423920600,
+      "id_str": "753860838423920640",
+      "text": "RT @SatiataOff: @spbunderhood @7rulnik я кричала, когда на первого неожиданно наткнулась и он зашевелился",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SatiataOff",
+            "name": "Войченко",
+            "id": 311741165,
+            "id_str": "311741165",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              16,
+              29
+            ]
+          },
+          {
+            "screen_name": "7rulnik",
+            "name": "Valentin Semirulnik",
+            "id": 449464925,
+            "id_str": "449464925",
+            "indices": [
+              30,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Fri Jul 15 07:52:48 +0000 2016",
+        "id": 753859848039637000,
+        "id_str": "753859848039636993",
+        "text": "@spbunderhood @7rulnik я кричала, когда на первого неожиданно наткнулась и он зашевелился",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "7rulnik",
+              "name": "Valentin Semirulnik",
+              "id": 449464925,
+              "id_str": "449464925",
+              "indices": [
+                14,
+                22
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 753841547196506100,
+        "in_reply_to_status_id_str": "753841547196506113",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 311741165,
+          "id_str": "311741165"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 15 09:06:39 +0000 2016",
+      "id": 753878433495736300,
+      "id_str": "753878433495736320",
+      "text": "RT @adagamov: Вулкан как вулкан https://t.co/PLFp6H1wOH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "adagamov",
+            "name": "Рустем Адагамов",
+            "id": 191315334,
+            "id_str": "191315334",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 753874700342816800,
+            "id_str": "753874700342816768",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+            "url": "https://t.co/PLFp6H1wOH",
+            "display_url": "pic.twitter.com/PLFp6H1wOH",
+            "expanded_url": "http://twitter.com/adagamov/status/753874700607127552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 753874700607127600,
+            "source_status_id_str": "753874700607127552",
+            "source_user_id": 191315334,
+            "source_user_id_str": "191315334"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 753874700342816800,
+            "id_str": "753874700342816768",
+            "indices": [
+              32,
+              55
+            ],
+            "media_url": "http://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+            "url": "https://t.co/PLFp6H1wOH",
+            "display_url": "pic.twitter.com/PLFp6H1wOH",
+            "expanded_url": "http://twitter.com/adagamov/status/753874700607127552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 491,
+                "h": 258,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 753874700607127600,
+            "source_status_id_str": "753874700607127552",
+            "source_user_id": 191315334,
+            "source_user_id_str": "191315334",
+            "ext_alt_text": null
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "retweeted_status": {
+        "created_at": "Fri Jul 15 08:51:49 +0000 2016",
+        "id": 753874700607127600,
+        "id_str": "753874700607127552",
+        "text": "Вулкан как вулкан https://t.co/PLFp6H1wOH",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 753874700342816800,
+              "id_str": "753874700342816768",
+              "indices": [
+                18,
+                41
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+              "url": "https://t.co/PLFp6H1wOH",
+              "display_url": "pic.twitter.com/PLFp6H1wOH",
+              "expanded_url": "http://twitter.com/adagamov/status/753874700607127552/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 753874700342816800,
+              "id_str": "753874700342816768",
+              "indices": [
+                18,
+                41
+              ],
+              "media_url": "http://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CnZNC7cWcAADxOl.jpg",
+              "url": "https://t.co/PLFp6H1wOH",
+              "display_url": "pic.twitter.com/PLFp6H1wOH",
+              "expanded_url": "http://twitter.com/adagamov/status/753874700607127552/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 491,
+                  "h": 258,
+                  "resize": "fit"
+                }
+              },
+              "ext_alt_text": null
+            }
+          ]
+        },
+        "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 191315334,
+          "id_str": "191315334"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 78,
+        "favorite_count": 99,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "bg"
+      },
+      "is_quote_status": false,
+      "retweet_count": 78,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Fri Jul 15 12:28:10 +0000 2016",
+      "id": 753929147345408000,
+      "id_str": "753929147345408000",
+      "text": "Вышли ехать на дачу, пока садились в машину, ливануло так, что я промок до нитки и сижу в луже. Как отъехали, дождь почти перестал. 😒",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        16838181
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
