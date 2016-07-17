@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 256,
+  "followers_count": 257,
   "friends_count": 40,
   "listed_count": 12,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 67,
+  "favourites_count": 69,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1038,
+  "statuses_count": 1062,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jul 15 12:28:10 +0000 2016",
-    "id": 753929147345408000,
-    "id_str": "753929147345408000",
-    "text": "Вышли ехать на дачу, пока садились в машину, ливануло так, что я промок до нитки и сижу в луже. Как отъехали, дождь почти перестал. 😒",
+    "created_at": "Sun Jul 17 21:09:04 +0000 2016",
+    "id": 754785012533325800,
+    "id_str": "754785012533325825",
+    "text": "А ещё приглашаю вас пообщаться со мной в наши телеграмные языковые чаты.\nРусский: https://t.co/sY1EEjEEfD\nБот со списком: @tumblrlanguages",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/sY1EEjEEfD",
+          "expanded_url": "https://telegram.me/joinchat/CLreZz1m1vxGduwsqi-vOA",
+          "display_url": "telegram.me/joinchat/CLreZ…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -66,6 +76,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
