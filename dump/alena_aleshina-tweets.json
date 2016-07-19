@@ -150,6 +150,1910 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 09:47:10 +0000 2016",
+      "id": 754975790996066300,
+      "id_str": "754975790996066304",
+      "text": "Один из важнейших вопросов в коучинге: а что будет хорошим результатом чего-либо? А что для вас будет хорошим результатом этой недели?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 13:32:32 +0000 2016",
+      "id": 755032506617954300,
+      "id_str": "755032506617954304",
+      "text": "@kalabro эмоц. интеллект в любом случае нужно развивать, начиная с умения осознавать эмоции. В данном случае удаленность не имеет значения",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kalabro",
+            "name": "Kate",
+            "id": 23295037,
+            "id_str": "23295037",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755000214126223400,
+      "in_reply_to_status_id_str": "755000214126223360",
+      "in_reply_to_user_id": 23295037,
+      "in_reply_to_user_id_str": "23295037",
+      "in_reply_to_screen_name": "kalabro",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 13:33:37 +0000 2016",
+      "id": 755032779214168000,
+      "id_str": "755032779214168064",
+      "text": "@kalabro нуууу в Твиттере такой вопрос)))) 140 знаков)))) застрелите меня)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kalabro",
+            "name": "Kate",
+            "id": 23295037,
+            "id_str": "23295037",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755000624199176200,
+      "in_reply_to_status_id_str": "755000624199176192",
+      "in_reply_to_user_id": 23295037,
+      "in_reply_to_user_id_str": "23295037",
+      "in_reply_to_screen_name": "kalabro",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 13:33:55 +0000 2016",
+      "id": 755032855898619900,
+      "id_str": "755032855898619904",
+      "text": "@kalabro хотя вообще-то ответ тот же: начинать нужно с осознания своих эмоций",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kalabro",
+            "name": "Kate",
+            "id": 23295037,
+            "id_str": "23295037",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755000624199176200,
+      "in_reply_to_status_id_str": "755000624199176192",
+      "in_reply_to_user_id": 23295037,
+      "in_reply_to_user_id_str": "23295037",
+      "in_reply_to_screen_name": "kalabro",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 13:35:51 +0000 2016",
+      "id": 755033342576300000,
+      "id_str": "755033342576300033",
+      "text": "@Nadiah_Twit начну с простого - с кафешек)) Я очень люблю Teplo, прям очень. Это правда скорее ресторан, но там ооочень уютно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nadiah_Twit",
+            "name": "Nadiah",
+            "id": 562063143,
+            "id_str": "562063143",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 754999996215390200,
+      "in_reply_to_status_id_str": "754999996215390208",
+      "in_reply_to_user_id": 562063143,
+      "in_reply_to_user_id_str": "562063143",
+      "in_reply_to_screen_name": "Nadiah_Twit",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 13:37:23 +0000 2016",
+      "id": 755033729249189900,
+      "id_str": "755033729249189888",
+      "text": "@Nadiah_Twit негатив не сильнее, мы просто больше привыкли на нем концентрироваться (в силу воспитания и нац.культуры)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nadiah_Twit",
+            "name": "Nadiah",
+            "id": 562063143,
+            "id_str": "562063143",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755002153266212900,
+      "in_reply_to_status_id_str": "755002153266212864",
+      "in_reply_to_user_id": 562063143,
+      "in_reply_to_user_id_str": "562063143",
+      "in_reply_to_screen_name": "Nadiah_Twit",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:06:25 +0000 2016",
+      "id": 755041036586606600,
+      "id_str": "755041036586606592",
+      "text": "@ipelekhan Это правда сложно. Поэтому многие коучи предлагают установочную встречу бесплатно, чтобы почувствовать, нравится мне или нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipelekhan",
+            "name": "Igor Pelekhan",
+            "id": 283466271,
+            "id_str": "283466271",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755002384586313700,
+      "in_reply_to_status_id_str": "755002384586313728",
+      "in_reply_to_user_id": 283466271,
+      "in_reply_to_user_id_str": "283466271",
+      "in_reply_to_screen_name": "ipelekhan",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:07:35 +0000 2016",
+      "id": 755041330661851100,
+      "id_str": "755041330661851138",
+      "text": "@ipelekhan Официальных рейтингов нет... В Институте Коучинга наверняка хорошие. Александр Савкин, например, точно крут, но оччень дорогой)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipelekhan",
+            "name": "Igor Pelekhan",
+            "id": 283466271,
+            "id_str": "283466271",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755002384586313700,
+      "in_reply_to_status_id_str": "755002384586313728",
+      "in_reply_to_user_id": 283466271,
+      "in_reply_to_user_id_str": "283466271",
+      "in_reply_to_screen_name": "ipelekhan",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:09:01 +0000 2016",
+      "id": 755041688842805200,
+      "id_str": "755041688842805248",
+      "text": "@Nadiah_Twit ослабевают, насколько я помню, в силу каких-то особенностей внимания - привычные стимулы вызывают меньшую реакцию",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nadiah_Twit",
+            "name": "Nadiah",
+            "id": 562063143,
+            "id_str": "562063143",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 755002153266212900,
+      "in_reply_to_status_id_str": "755002153266212864",
+      "in_reply_to_user_id": 562063143,
+      "in_reply_to_user_id_str": "562063143",
+      "in_reply_to_screen_name": "Nadiah_Twit",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:14:05 +0000 2016",
+      "id": 755042966926942200,
+      "id_str": "755042966926942209",
+      "text": "Про осознание эмоций. А вы когда-нибудь задумывались, что мы практически не умеем осознавать свои эмоции? И почему так происходит?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:26:34 +0000 2016",
+      "id": 755046105998618600,
+      "id_str": "755046105998618629",
+      "text": "Попробуйте вот прямо сейчас осознать, что вы чувствуете",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:41:56 +0000 2016",
+      "id": 755049973822156800,
+      "id_str": "755049973822156800",
+      "text": "Это вот так?)) Девочки и техника))) Спасибо! https://t.co/3C0olabaVq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3C0olabaVq",
+            "expanded_url": "https://twitter.com/ipelekhan/status/755041575315599360",
+            "display_url": "twitter.com/ipelekhan/stat…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755041575315599400,
+      "quoted_status_id_str": "755041575315599360",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 14:08:34 +0000 2016",
+        "id": 755041575315599400,
+        "id_str": "755041575315599360",
+        "text": "@spbunderhood небольшой совет, лучше отвечать ретвитом, тогда будут видны вопросы других пользователей 🦄",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755041036586606600,
+        "in_reply_to_status_id_str": "755041036586606592",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 283466271,
+          "id_str": "283466271"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:44:02 +0000 2016",
+      "id": 755050501666906100,
+      "id_str": "755050501666906112",
+      "text": "Точно, не приучены. Нас учили всяким \"техническим вещам\" (писать, считать), а про эмоции - очень мало(( а то и никак https://t.co/u0XNJJ1Sjy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/u0XNJJ1Sjy",
+            "expanded_url": "https://twitter.com/Nadiah_Twit/status/755045415138000896",
+            "display_url": "twitter.com/Nadiah_Twit/st…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755045415138000900,
+      "quoted_status_id_str": "755045415138000896",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 14:23:49 +0000 2016",
+        "id": 755045415138000900,
+        "id_str": "755045415138000896",
+        "text": "@spbunderhood да, всё на автомате. Бежим-бежим,  а пожить и почувствовать нет времени и как-то не приучены что ли.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 755042966926942200,
+        "in_reply_to_status_id_str": "755042966926942209",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 562063143,
+          "id_str": "562063143"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:45:16 +0000 2016",
+      "id": 755050814419431400,
+      "id_str": "755050814419431424",
+      "text": "кто, я?)) почему?)) https://t.co/xXfNSnskl8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xXfNSnskl8",
+            "expanded_url": "https://twitter.com/dcromster/status/755046462250184705",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755046462250184700,
+      "quoted_status_id_str": "755046462250184705",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 14:27:59 +0000 2016",
+        "id": 755046462250184700,
+        "id_str": "755046462250184705",
+        "text": "@spbunderhood издеваешься? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755046105998618600,
+        "in_reply_to_status_id_str": "755046105998618629",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 14:56:19 +0000 2016",
+      "id": 755053591375777800,
+      "id_str": "755053591375777792",
+      "text": "не-не-не, всех не надо))) https://t.co/xlawkRwjdQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xlawkRwjdQ",
+            "expanded_url": "https://twitter.com/dcromster/status/755051213822038020",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755051213822038000,
+      "quoted_status_id_str": "755051213822038020",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 14:46:52 +0000 2016",
+        "id": 755051213822038000,
+        "id_str": "755051213822038020",
+        "text": "@spbunderhood сознание не выдержит при попытке осознания всех сигналов тела.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755050814419431400,
+        "in_reply_to_status_id_str": "755050814419431424",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:03:18 +0000 2016",
+      "id": 755055351318339600,
+      "id_str": "755055351318339584",
+      "text": "для чего \"не надо\"? https://t.co/YC8itEt0Qz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YC8itEt0Qz",
+            "expanded_url": "https://twitter.com/dcromster/status/755053999791935489",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755053999791935500,
+      "quoted_status_id_str": "755053999791935489",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 14:57:56 +0000 2016",
+        "id": 755053999791935500,
+        "id_str": "755053999791935489",
+        "text": "@spbunderhood не надо больше того, что доходит до сознания. Остальное пусть подсознание разгребает.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755053591375777800,
+        "in_reply_to_status_id_str": "755053591375777792",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:07:24 +0000 2016",
+      "id": 755056384371220500,
+      "id_str": "755056384371220481",
+      "text": "в моей картине мира, что-то \"надо\" или \"не надо\", исходя из какой-то цели (задачи). Про то и вопрос \"для чего\"? https://t.co/n8b7S2IkBM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n8b7S2IkBM",
+            "expanded_url": "https://twitter.com/dcromster/status/755055751756910596",
+            "display_url": "twitter.com/dcromster/stat…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755055751756910600,
+      "quoted_status_id_str": "755055751756910596",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 15:04:54 +0000 2016",
+        "id": 755055751756910600,
+        "id_str": "755055751756910596",
+        "text": "@spbunderhood вообще. Я потерял нить :(",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755055351318339600,
+        "in_reply_to_status_id_str": "755055351318339584",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 81103006,
+          "id_str": "81103006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:09:11 +0000 2016",
+      "id": 755056831177850900,
+      "id_str": "755056831177850880",
+      "text": "Я сегодня работала посредником в урегулировании конфликта. Как вагон разгрузить)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:22:48 +0000 2016",
+      "id": 755060259715153900,
+      "id_str": "755060259715153920",
+      "text": "между сотрудниками, по взаимодействию в ходе работы https://t.co/0Hg8MGyce0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0Hg8MGyce0",
+            "expanded_url": "https://twitter.com/zeihlis/status/755058464997728256",
+            "display_url": "twitter.com/zeihlis/status…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755058464997728300,
+      "quoted_status_id_str": "755058464997728256",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 15:15:41 +0000 2016",
+        "id": 755058464997728300,
+        "id_str": "755058464997728256",
+        "text": "@spbunderhood какого рода конфликт был?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755056831177850900,
+        "in_reply_to_status_id_str": "755056831177850880",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 165731497,
+          "id_str": "165731497"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:46:47 +0000 2016",
+      "id": 755066294333046800,
+      "id_str": "755066294333046784",
+      "text": "Чтобы радости и светлых чувств было больше, концентрируйтесь на успехах. Что вам сегодня удалось? https://t.co/1fA8ZtZFv3",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1fA8ZtZFv3",
+            "expanded_url": "https://twitter.com/Nadiah_Twit/status/755002153266212864",
+            "display_url": "twitter.com/Nadiah_Twit/st…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755002153266212900,
+      "quoted_status_id_str": "755002153266212864",
+      "quoted_status": {
+        "created_at": "Mon Jul 18 11:31:55 +0000 2016",
+        "id": 755002153266212900,
+        "id_str": "755002153266212864",
+        "text": "@spbunderhood почему с временем чувства/эмоции ослабевают. и почему вообще негатив сильнее и мощнее, чем радость, счастье, светлые чувства",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 754959338482069500,
+        "in_reply_to_status_id_str": "754959338482069504",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 562063143,
+          "id_str": "562063143"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 15:59:02 +0000 2016",
+      "id": 755069376605392900,
+      "id_str": "755069376605392896",
+      "text": "Что самое трудное в работе коуча / медиатора? Твоего мнения вообще не существует. Чистый лист. Идеальное зеркало. Внутренняя тишина. Сложно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 18 19:40:01 +0000 2016",
+      "id": 755124989209305100,
+      "id_str": "755124989209305088",
+      "text": "Народная мудрость гласит, что чтобы выспаться, надо всего лишь лечь спать в предыдущий день)) вчера я попробовала, и знаете, работает!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 07:35:04 +0000 2016",
+      "id": 755304936821456900,
+      "id_str": "755304936821456896",
+      "text": "Доброе утро! А вы слышали, что последний месяц вошел в топ-5 самых мокрых месяцев за последние 30 лет?) С солнечным утром!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 09:55:57 +0000 2016",
+      "id": 755340390115467300,
+      "id_str": "755340390115467264",
+      "text": "Как много сложностей в нашей возникает из-за того, что мы считаем, что какие-то вещи \"нормальные\", а какие-то - нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 12:36:40 +0000 2016",
+      "id": 755380838649499600,
+      "id_str": "755380838649499648",
+      "text": "Пообедали сегодня в маленькой кафешке Куба на Кузнечном переулке. Оказалось вкусно и дешево. А вечером там сигарный клуб",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 12:50:11 +0000 2016",
+      "id": 755384240511021000,
+      "id_str": "755384240511021056",
+      "text": "Читаю \"Право писать\". Одна из идей - неправда, что для творчества нужно вдохновение. Просто начните делать. Просто пишите.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 13:29:30 +0000 2016",
+      "id": 755394134291152900,
+      "id_str": "755394134291152896",
+      "text": "Спасибо :) https://t.co/ZApY8z2Aw6",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZApY8z2Aw6",
+            "expanded_url": "https://twitter.com/tonyshkurenko/status/755354713101594624",
+            "display_url": "twitter.com/tonyshkurenko/…",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755354713101594600,
+      "quoted_status_id_str": "755354713101594624",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 10:52:52 +0000 2016",
+        "id": 755354713101594600,
+        "id_str": "755354713101594624",
+        "text": "@spbunderhood @alena_aleshina мне нравится, как Вы ведете :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            },
+            {
+              "screen_name": "alena_aleshina",
+              "name": "Alena Aleshina",
+              "id": 99153254,
+              "id_str": "99153254",
+              "indices": [
+                14,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 755304936821456900,
+        "in_reply_to_status_id_str": "755304936821456896",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 248120243,
+          "id_str": "248120243"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 14:54:11 +0000 2016",
+      "id": 755415443180032000,
+      "id_str": "755415443180032000",
+      "text": "А вот еще про эмоции. Не бывает отрицательных и положительных эмоций. Есть эмоции, адекватные ситуации, и эмоции, не адекватные ситуации",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 15:13:09 +0000 2016",
+      "id": 755420217963151400,
+      "id_str": "755420217963151360",
+      "text": "А там вот я не была. От работы далековато) https://t.co/aniZArcOXf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aniZArcOXf",
+            "expanded_url": "https://twitter.com/Akurganow/status/755395587437125632",
+            "display_url": "twitter.com/Akurganow/stat…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755395587437125600,
+      "quoted_status_id_str": "755395587437125632",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 13:35:17 +0000 2016",
+        "id": 755395587437125600,
+        "id_str": "755395587437125632",
+        "text": ". @spbunderhood Мне больше нравится Куба на гороховой",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                2,
+                15
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Plus</a>",
+        "in_reply_to_status_id": 755380838649499600,
+        "in_reply_to_status_id_str": "755380838649499648",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 227244497,
+          "id_str": "227244497"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 17:16:11 +0000 2016",
+      "id": 755451178742317000,
+      "id_str": "755451178742317056",
+      "text": "Не все рАвно. Есть вещи, которые мне нравятся или не нравятся. Которые бесят. Которые непонятны. Но нет \"нормальных\" https://t.co/uCVdiDimpR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uCVdiDimpR",
+            "expanded_url": "https://twitter.com/AliasAirlines/status/755427320400347136",
+            "display_url": "twitter.com/AliasAirlines/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755427320400347100,
+      "quoted_status_id_str": "755427320400347136",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 15:41:23 +0000 2016",
+        "id": 755427320400347100,
+        "id_str": "755427320400347136",
+        "text": "Какая-то невесомость получается, ничто не имеет веса, всё рАвно и одинаково безразлично. Или не так понял? https://t.co/KhDwWmN9z2",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/KhDwWmN9z2",
+              "expanded_url": "https://twitter.com/spbunderhood/status/755340390115467264",
+              "display_url": "twitter.com/spbunderhood/s…",
+              "indices": [
+                107,
+                130
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 196277307,
+          "id_str": "196277307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 755340390115467300,
+        "quoted_status_id_str": "755340390115467264",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 17:16:26 +0000 2016",
+      "id": 755451244005756900,
+      "id_str": "755451244005756932",
+      "text": "с чем именно? https://t.co/2WOBOUEE98",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2WOBOUEE98",
+            "expanded_url": "https://twitter.com/Nadiah_Twit/status/755450659382652928",
+            "display_url": "twitter.com/Nadiah_Twit/st…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 755450659382652900,
+      "quoted_status_id_str": "755450659382652928",
+      "quoted_status": {
+        "created_at": "Tue Jul 19 17:14:07 +0000 2016",
+        "id": 755450659382652900,
+        "id_str": "755450659382652928",
+        "text": "@spbunderhood как-то трудно согласиться с этим",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                0,
+                13
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 755415443180032000,
+        "in_reply_to_status_id_str": "755415443180032000",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 562063143,
+          "id_str": "562063143"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jul 19 18:37:01 +0000 2016",
+      "id": 755471522609893400,
+      "id_str": "755471522609893380",
+      "text": "Только что на тренерском курсе участница проводила блок по финансовой грамотности. Распределяли, как бы мы потратили 6000000 руб. Прикольно)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        99153254
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

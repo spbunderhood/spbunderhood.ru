@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 259,
+  "followers_count": 255,
   "friends_count": 40,
   "listed_count": 12,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
@@ -35,13 +35,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1066,
+  "statuses_count": 1098,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jul 18 08:41:47 +0000 2016",
-    "id": 754959338482069500,
-    "id_str": "754959338482069504",
-    "text": "Нас с вами ждет психологическая неделя) Так что задавайте смело любые вопросы по теме",
+    "created_at": "Tue Jul 19 18:37:01 +0000 2016",
+    "id": 755471522609893400,
+    "id_str": "755471522609893380",
+    "text": "Только что на тренерском курсе участница проводила блок по финансовой грамотности. Распределяли, как бы мы потратили 6000000 руб. Прикольно)",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -63,7 +63,7 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
