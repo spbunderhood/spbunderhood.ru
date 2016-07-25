@@ -26,8 +26,8 @@
     }
   },
   "protected": false,
-  "followers_count": 255,
-  "friends_count": 40,
+  "followers_count": 260,
+  "friends_count": 42,
   "listed_count": 12,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
   "favourites_count": 69,
@@ -35,13 +35,13 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1098,
+  "statuses_count": 1112,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jul 19 18:37:01 +0000 2016",
-    "id": 755471522609893400,
-    "id_str": "755471522609893380",
-    "text": "Только что на тренерском курсе участница проводила блок по финансовой грамотности. Распределяли, как бы мы потратили 6000000 руб. Прикольно)",
+    "created_at": "Mon Jul 25 13:34:39 +0000 2016",
+    "id": 757569757533073400,
+    "id_str": "757569757533073408",
+    "text": "Сижу на работе, вспоминаю классные выходные. Какие у вас планы на вечер? У меня - ужин из лисичек, которые мы вчера собрали в лесу на даче;)",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -59,7 +59,7 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      99153254
+      283910961
     ],
     "is_quote_status": false,
     "retweet_count": 0,
