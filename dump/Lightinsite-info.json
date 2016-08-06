@@ -5,7 +5,7 @@
   "screen_name": "spbunderhood",
   "location": "Санкт-Петербург",
   "profile_location": null,
-  "description": "Коллективный аккаунт жителей Петербурга, каждую неделю новый петербуржец расскажет о жизни в этом городе. На этой неделе с вами Катя @makatya",
+  "description": "Коллективный аккаунт жителей Петербурга, каждую неделю новый петербуржец расскажет о жизни в этом городе. На этой неделе с вами Лена @Lightinsite",
   "url": "https://t.co/FaVf6bIK2s",
   "entities": {
     "url": {
@@ -26,37 +26,37 @@
     }
   },
   "protected": false,
-  "followers_count": 265,
+  "followers_count": 279,
   "friends_count": 43,
-  "listed_count": 14,
+  "listed_count": 15,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
   "favourites_count": 83,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1158,
+  "statuses_count": 1165,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 01 15:06:06 +0000 2016",
-    "id": 760129484494217200,
-    "id_str": "760129484494217216",
-    "text": "Вчера вернулась с #Yogart\nВнутри дзен. Делюсь.\n#zen",
+    "created_at": "Fri Aug 05 12:13:07 +0000 2016",
+    "id": 761535503074152400,
+    "id_str": "761535503074152450",
+    "text": "Какая культура в Нижнем Тагиле? Андрей Батурин вчера рассказал, как организовал LOOP CONVENTION в 2012г! Это, гайз, #bitbox и #streetmusic!",
     "truncated": false,
     "entities": {
       "hashtags": [
         {
-          "text": "Yogart",
+          "text": "bitbox",
           "indices": [
-            18,
-            25
+            116,
+            123
           ]
         },
         {
-          "text": "zen",
+          "text": "streetmusic",
           "indices": [
-            47,
-            51
+            126,
+            138
           ]
         }
       ],
@@ -88,8 +88,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/757583351834370048/jJfcuB-3_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/757583351834370048/jJfcuB-3_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/760212644943003649/VA9Sqnkr_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/760212644943003649/VA9Sqnkr_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/4827647733/1453242332",
   "profile_link_color": "00ABCD",
   "profile_sidebar_border_color": "000000",
@@ -102,6 +102,7 @@
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
+  "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false
 }
