@@ -9232,6 +9232,3218 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 20:57:07 +0000 2016",
+      "id": 766740801481240600,
+      "id_str": "766740801481240576",
+      "text": "@spbunderhood съеби уже, а",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766740120619872300,
+      "in_reply_to_status_id_str": "766740120619872256",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 95432499,
+        "id_str": "95432499"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:07:59 +0000 2016",
+      "id": 766743538994442200,
+      "id_str": "766743538994442240",
+      "text": "@Wandermiltz @spbunderhood Ольга, вы прекрасны!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Wandermiltz",
+            "name": "тихо будь",
+            "id": 95432499,
+            "id_str": "95432499",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766740801481240600,
+      "in_reply_to_status_id_str": "766740801481240576",
+      "in_reply_to_user_id": 95432499,
+      "in_reply_to_user_id_str": "95432499",
+      "in_reply_to_screen_name": "Wandermiltz",
+      "user": {
+        "id": 432628933,
+        "id_str": "432628933"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:09:29 +0000 2016",
+      "id": 766743917329023000,
+      "id_str": "766743917329022976",
+      "text": "@spbunderhood боюсь, нам не по пути.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 766740120619872300,
+      "in_reply_to_status_id_str": "766740120619872256",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 87775435,
+        "id_str": "87775435"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "5bcd72da50f0ee77",
+        "url": "https://api.twitter.com/1.1/geo/id/5bcd72da50f0ee77.json",
+        "place_type": "city",
+        "name": "Hamburg",
+        "full_name": "Hamburg, Deutschland",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.4201604,
+                53.395118
+              ],
+              [
+                10.325199,
+                53.395118
+              ],
+              [
+                10.325199,
+                53.9646546
+              ],
+              [
+                8.4201604,
+                53.9646546
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:17:18 +0000 2016",
+      "id": 766745883916505100,
+      "id_str": "766745883916505094",
+      "text": "@AlexLenSpb @spbunderhood спасибо, это все потому что маткой регулярно дышу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexLenSpb",
+            "name": "Alexey Lenyashin",
+            "id": 432628933,
+            "id_str": "432628933",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766743538994442200,
+      "in_reply_to_status_id_str": "766743538994442240",
+      "in_reply_to_user_id": 432628933,
+      "in_reply_to_user_id_str": "432628933",
+      "in_reply_to_screen_name": "AlexLenSpb",
+      "user": {
+        "id": 95432499,
+        "id_str": "95432499"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:19:55 +0000 2016",
+      "id": 766746540190883800,
+      "id_str": "766746540190883840",
+      "text": "@Wandermiltz @spbunderhood научишь?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Wandermiltz",
+            "name": "тихо будь",
+            "id": 95432499,
+            "id_str": "95432499",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766745883916505100,
+      "in_reply_to_status_id_str": "766745883916505094",
+      "in_reply_to_user_id": 95432499,
+      "in_reply_to_user_id_str": "95432499",
+      "in_reply_to_screen_name": "Wandermiltz",
+      "user": {
+        "id": 432628933,
+        "id_str": "432628933"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:21:13 +0000 2016",
+      "id": 766746866918842400,
+      "id_str": "766746866918842368",
+      "text": "@AlexLenSpb @spbunderhood конечно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexLenSpb",
+            "name": "Alexey Lenyashin",
+            "id": 432628933,
+            "id_str": "432628933",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              12,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766746540190883800,
+      "in_reply_to_status_id_str": "766746540190883840",
+      "in_reply_to_user_id": 432628933,
+      "in_reply_to_user_id_str": "432628933",
+      "in_reply_to_screen_name": "AlexLenSpb",
+      "user": {
+        "id": 95432499,
+        "id_str": "95432499"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:36:46 +0000 2016",
+      "id": 766750781240406000,
+      "id_str": "766750781240406017",
+      "text": "@spbunderhood Статья просто супер! Читал, открыв рот. )) Спасибо Камила! 👍",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765600384207450100,
+      "in_reply_to_status_id_str": "765600384207450112",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 379626411,
+        "id_str": "379626411"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:41:41 +0000 2016",
+      "id": 766752018094493700,
+      "id_str": "766752018094493697",
+      "text": "@spbunderhood бога нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766751566531616800,
+      "in_reply_to_status_id_str": "766751566531616768",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 95432499,
+        "id_str": "95432499"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:07:33 +0000 2016",
+      "id": 766758529546018800,
+      "id_str": "766758529546018816",
+      "text": "@spbunderhood какая же осознанность под марками?)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766737844375318500,
+      "in_reply_to_status_id_str": "766737844375318528",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 260892448,
+        "id_str": "260892448"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:11:38 +0000 2016",
+      "id": 766759557414740000,
+      "id_str": "766759557414739968",
+      "text": "@spbunderhood у него за плечами многолетний опыт, это другое. Плюс я наблюдала снаружи и изнутри. Позиция Ваша противоречива на мой взгляд",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766758844382994400,
+      "in_reply_to_status_id_str": "766758844382994432",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 260892448,
+        "id_str": "260892448"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:30:32 +0000 2016",
+      "id": 766764311419183100,
+      "id_str": "766764311419183105",
+      "text": "@spbunderhood а можно ссылку про один миллиард?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766759502079266800,
+      "in_reply_to_status_id_str": "766759502079266816",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 282594849,
+        "id_str": "282594849"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:38:09 +0000 2016",
+      "id": 766766230959222800,
+      "id_str": "766766230959222784",
+      "text": "@spbunderhood скажите.. А когда будет про Петербург? А?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766629055491899400,
+      "in_reply_to_status_id_str": "766629055491899392",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 1358805456,
+        "id_str": "1358805456"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 23:03:09 +0000 2016",
+      "id": 766772520196382700,
+      "id_str": "766772520196382721",
+      "text": "@spbunderhood отлично 😘😘",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766769075200680000,
+      "in_reply_to_status_id_str": "766769075200679936",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 1358805456,
+        "id_str": "1358805456"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 00:24:24 +0000 2016",
+      "id": 766792969680785400,
+      "id_str": "766792969680785408",
+      "text": "@spbunderhood она не круглая, а имеет форму геоида",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_status_id": 766773179507441700,
+      "in_reply_to_status_id_str": "766773179507441664",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 43303612,
+        "id_str": "43303612"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 05:15:11 +0000 2016",
+      "id": 766866146813419500,
+      "id_str": "766866146813419520",
+      "text": "@spbunderhood вы явный тролль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765655657919971300,
+      "in_reply_to_status_id_str": "765655657919971329",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 2563252344,
+        "id_str": "2563252344"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 05:27:25 +0000 2016",
+      "id": 766869226363707400,
+      "id_str": "766869226363707392",
+      "text": "@hc_boec @spbunderhood это взаимосвязано: синдром философской интоксикации",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hc_boec",
+            "name": "Александр Пономарев",
+            "id": 120675217,
+            "id_str": "120675217",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 765541883418337300,
+      "in_reply_to_status_id_str": "765541883418337280",
+      "in_reply_to_user_id": 120675217,
+      "in_reply_to_user_id_str": "120675217",
+      "in_reply_to_screen_name": "hc_boec",
+      "user": {
+        "id": 2563252344,
+        "id_str": "2563252344"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 05:58:07 +0000 2016",
+      "id": 766876951973916700,
+      "id_str": "766876951973916673",
+      "text": "@spbunderhood вообще то нет, она приплюснута с полюсов)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766773179507441700,
+      "in_reply_to_status_id_str": "766773179507441664",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 301988980,
+        "id_str": "301988980"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 06:35:34 +0000 2016",
+      "id": 766886375580897300,
+      "id_str": "766886375580897280",
+      "text": "@spbunderhood завозите следующего, антинаучная ересь это уже слишком.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 766773179507441700,
+      "in_reply_to_status_id_str": "766773179507441664",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 87775435,
+        "id_str": "87775435"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 07:13:39 +0000 2016",
+      "id": 766895958814785500,
+      "id_str": "766895958814785536",
+      "text": "@spbunderhood а вас тут долго ещё будет нести? Кагбэ про Питер хотелось читать, а не про матки и плоскую Землю с 1 млрд жителей",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766776052794417200,
+      "in_reply_to_status_id_str": "766776052794417152",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 145388689,
+        "id_str": "145388689"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 07:28:05 +0000 2016",
+      "id": 766899589878349800,
+      "id_str": "766899589878349824",
+      "text": "@Andrew__Petrov @spbunderhood то есть ты правда ждёшь от этого \"ведущего аналитика\" пруфов??)))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andrew__Petrov",
+            "name": "Andrew_Petrov",
+            "id": 282594849,
+            "id_str": "282594849",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766764311419183100,
+      "in_reply_to_status_id_str": "766764311419183105",
+      "in_reply_to_user_id": 282594849,
+      "in_reply_to_user_id_str": "282594849",
+      "in_reply_to_screen_name": "Andrew__Petrov",
+      "user": {
+        "id": 432628933,
+        "id_str": "432628933"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 07:58:32 +0000 2016",
+      "id": 766907256180973600,
+      "id_str": "766907256180973568",
+      "text": "@spbunderhood @gulyaevr а ещё земля не вращается вокруг солнца.  https://t.co/lXi1svXNBJ везде обман",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "gulyaevr",
+            "name": "SOLIDNY SNAEK",
+            "id": 210623623,
+            "id_str": "210623623",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/lXi1svXNBJ",
+            "expanded_url": "http://web.archive.org/web/20160819052641/https://geektimes.ru/post/279630/",
+            "display_url": "web.archive.org/web/2016081905…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766776052794417200,
+      "in_reply_to_status_id_str": "766776052794417152",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 1485896364,
+        "id_str": "1485896364"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:31:18 +0000 2016",
+      "id": 766915499653468200,
+      "id_str": "766915499653468160",
+      "text": "@spbunderhood про Питер расскажешь хоть немного или опять будешь мудростями нас осыпать?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 766914960920289300,
+      "in_reply_to_status_id_str": "766914960920289280",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 219725619,
+        "id_str": "219725619"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:55:53 +0000 2016",
+      "id": 766921685526347800,
+      "id_str": "766921685526347776",
+      "text": "@spbunderhood @suxxes такое неуважение к читателям - норм?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              14,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766297516740583400,
+      "in_reply_to_status_id_str": "766297516740583424",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 98084311,
+        "id_str": "98084311"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 09:22:20 +0000 2016",
+      "id": 766928344717881300,
+      "id_str": "766928344717881344",
+      "text": "@spbunderhood какая может быть телепортация, если ты отрицаешь научный подход?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766768854777356300,
+      "in_reply_to_status_id_str": "766768854777356292",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 20382725,
+        "id_str": "20382725"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 10:41:36 +0000 2016",
+      "id": 766948292110549000,
+      "id_str": "766948292110548992",
+      "text": "Дыхание маткой, население земли - один миллиард человек, нас уже ничем не удивить, готовы) @spbunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              91,
+              104
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766740120619872300,
+      "in_reply_to_status_id_str": "766740120619872256",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 196277307,
+        "id_str": "196277307"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": true,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 10:57:36 +0000 2016",
+      "id": 766952316188569600,
+      "id_str": "766952316188569600",
+      "text": "@spbunderhood ты в корне не понимаешь что такое наука. За единым мнением как раз к пастырям.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766952003578855400,
+      "in_reply_to_status_id_str": "766952003578855424",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 20382725,
+        "id_str": "20382725"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:42:29 +0000 2016",
+      "id": 766963613516968000,
+      "id_str": "766963613516967938",
+      "text": "@spbunderhood этого Эйнштейн не говорил",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766957893182783500,
+      "in_reply_to_status_id_str": "766957893182783488",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 282594849,
+        "id_str": "282594849"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:53:30 +0000 2016",
+      "id": 766966385612353500,
+      "id_str": "766966385612353536",
+      "text": "@spbunderhood на самолете летали? видео с МКС смотрели? не навело ни на какие мысли?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766773179507441700,
+      "in_reply_to_status_id_str": "766773179507441664",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 8505772,
+        "id_str": "8505772"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:54:38 +0000 2016",
+      "id": 766966672506884100,
+      "id_str": "766966672506884096",
+      "text": "@spbunderhood @derzunov представляю как вы будете удивлены, когда умрете) поэтому я и ценю эту жизнь)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766951084979912700,
+      "in_reply_to_status_id_str": "766951084979912705",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 42858583,
+        "id_str": "42858583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:56:13 +0000 2016",
+      "id": 766967067803324400,
+      "id_str": "766967067803324416",
+      "text": "@Osa_zzz @spbunderhood А не Бисмарк?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Osa_zzz",
+            "name": "Ольга",
+            "id": 208639143,
+            "id_str": "208639143",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android</a>",
+      "in_reply_to_status_id": 766957893182783500,
+      "in_reply_to_status_id_str": "766957893182783488",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 192339330,
+        "id_str": "192339330"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:58:47 +0000 2016",
+      "id": 766967714279751700,
+      "id_str": "766967714279751680",
+      "text": "@KamilaRocks @spbunderhood удивляются живые. Мёртвые могут только разлагаться и кормить червей, если только их не сожгли, конечно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KamilaRocks",
+            "name": "Kamila RA",
+            "id": 42858583,
+            "id_str": "42858583",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766966672506884100,
+      "in_reply_to_status_id_str": "766966672506884096",
+      "in_reply_to_user_id": 42858583,
+      "in_reply_to_user_id_str": "42858583",
+      "in_reply_to_screen_name": "KamilaRocks",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:00:39 +0000 2016",
+      "id": 766968186357030900,
+      "id_str": "766968186357030912",
+      "text": "@derzunov @spbunderhood это вы про тело. Сознание не умирает.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766967714279751700,
+      "in_reply_to_status_id_str": "766967714279751680",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 42858583,
+        "id_str": "42858583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:04:05 +0000 2016",
+      "id": 766969049519648800,
+      "id_str": "766969049519648768",
+      "text": "@KamilaRocks @spbunderhood сознание умирает с мозгом. Попробуйте вбить себе шпалу в голову, но не насмерть, и мы посмотрим на ваше сознание)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KamilaRocks",
+            "name": "Kamila RA",
+            "id": 42858583,
+            "id_str": "42858583",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766968186357030900,
+      "in_reply_to_status_id_str": "766968186357030912",
+      "in_reply_to_user_id": 42858583,
+      "in_reply_to_user_id_str": "42858583",
+      "in_reply_to_screen_name": "KamilaRocks",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:05:55 +0000 2016",
+      "id": 766969511702630400,
+      "id_str": "766969511702630400",
+      "text": "@spbunderhood @Darth_temius всё хотел спросить, как вы отделяете тех кто ссыт вам в уши, от тех, кто не ссыт?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Darth_temius",
+            "name": "Artem",
+            "id": 255693423,
+            "id_str": "255693423",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766419520646938600,
+      "in_reply_to_status_id_str": "766419520646938624",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:07:44 +0000 2016",
+      "id": 766969968487501800,
+      "id_str": "766969968487501824",
+      "text": "@spbunderhood @Darth_temius Ведь вся эта дичь, которую вы тут льёте, была придумана до вас другими людьми. На чём основываетесь,делая выбор?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Darth_temius",
+            "name": "Artem",
+            "id": 255693423,
+            "id_str": "255693423",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766969511702630400,
+      "in_reply_to_status_id_str": "766969511702630400",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:11:54 +0000 2016",
+      "id": 766971015259914200,
+      "id_str": "766971015259914240",
+      "text": "@spbunderhood @Darth_temius опыт? Врядли, вы же не умирали. От рака вы,держу пари,сыроедением не излечились. Научные исследования? Сразу нет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Darth_temius",
+            "name": "Artem",
+            "id": 255693423,
+            "id_str": "255693423",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766969968487501800,
+      "in_reply_to_status_id_str": "766969968487501824",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:13:42 +0000 2016",
+      "id": 766971470836883500,
+      "id_str": "766971470836883456",
+      "text": "@spbunderhood @Darth_temius антинаучные видео на ютубе и наркоприпадки? Вот это похоже на правду. Это не ссынина в уши, да)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Darth_temius",
+            "name": "Artem",
+            "id": 255693423,
+            "id_str": "255693423",
+            "indices": [
+              14,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766971015259914200,
+      "in_reply_to_status_id_str": "766971015259914240",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:15:33 +0000 2016",
+      "id": 766971933531537400,
+      "id_str": "766971933531537408",
+      "text": "@spbunderhood искренне надеюсь, что вы сами не ходите ко врачам никогда и никогда не поведёте туда своих детей. Только СЕ.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766971470836883500,
+      "in_reply_to_status_id_str": "766971470836883456",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 2415820129,
+        "id_str": "2415820129"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:27:43 +0000 2016",
+      "id": 766974995184492500,
+      "id_str": "766974995184492544",
+      "text": "„Основная проблема современной молодёжи в том, что они верят всему, что написано в интернете…“\n— В. И. Ленин\n@Andrew__Petrov @spbunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andrew__Petrov",
+            "name": "Andrew_Petrov",
+            "id": 282594849,
+            "id_str": "282594849",
+            "indices": [
+              109,
+              124
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              125,
+              138
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766963613516968000,
+      "in_reply_to_status_id_str": "766963613516967938",
+      "in_reply_to_user_id": 282594849,
+      "in_reply_to_user_id_str": "282594849",
+      "in_reply_to_screen_name": "Andrew__Petrov",
+      "user": {
+        "id": 154728550,
+        "id_str": "154728550"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:29:54 +0000 2016",
+      "id": 766975545691308000,
+      "id_str": "766975545691308032",
+      "text": "@spbunderhood источник цитаты, иначе ненаучно. И пишите уже про Питер, а не этот бред, портите идею аккаунта.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+      "in_reply_to_status_id": 766957893182783500,
+      "in_reply_to_status_id_str": "766957893182783488",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 51188176,
+        "id_str": "51188176"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:38:42 +0000 2016",
+      "id": 766977760665473000,
+      "id_str": "766977760665473024",
+      "text": "@spbunderhood @KamilaRocks где пруф, что это г-н Эйнштейн сказал?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "KamilaRocks",
+            "name": "Kamila RA",
+            "id": 42858583,
+            "id_str": "42858583",
+            "indices": [
+              14,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766957893182783500,
+      "in_reply_to_status_id_str": "766957893182783488",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 140105075,
+        "id_str": "140105075"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:41:59 +0000 2016",
+      "id": 766978587069182000,
+      "id_str": "766978587069181952",
+      "text": "@spbunderhood это у вас какие-то проблемы, которыми вы фолловеров грузите. Отсылки к источнику - это единственный способ проверки истинности",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+      "in_reply_to_status_id": 766977895545856000,
+      "in_reply_to_status_id_str": "766977895545856000",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 51188176,
+        "id_str": "51188176"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:44:45 +0000 2016",
+      "id": 766979284514672600,
+      "id_str": "766979284514672640",
+      "text": "@_polunica @spbunderhood это те, которые на supe катаются?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_polunica",
+            "name": "повесть Белкина",
+            "id": 2608418319,
+            "id_str": "2608418319",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              11,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766965557384142800,
+      "in_reply_to_status_id_str": "766965557384142848",
+      "in_reply_to_user_id": 2608418319,
+      "in_reply_to_user_id_str": "2608418319",
+      "in_reply_to_screen_name": "_polunica",
+      "user": {
+        "id": 252939288,
+        "id_str": "252939288"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:58:42 +0000 2016",
+      "id": 766982794828537900,
+      "id_str": "766982794828537856",
+      "text": "@spbunderhood смысл тогда вашей псевоцитаты Эйнштейна? Сами себе противоречите, надо быть последовательней.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+      "in_reply_to_status_id": 766980983002366000,
+      "in_reply_to_status_id_str": "766980983002365953",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 51188176,
+        "id_str": "51188176"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:07:34 +0000 2016",
+      "id": 766985023702589400,
+      "id_str": "766985023702589440",
+      "text": "@spbunderhood есть несколько способов это проверить самому. В 8 классе на физике такая лабораторная была",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766773179507441700,
+      "in_reply_to_status_id_str": "766773179507441664",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 98084311,
+        "id_str": "98084311"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:08:58 +0000 2016",
+      "id": 766985377487974400,
+      "id_str": "766985377487974400",
+      "text": "@spbunderhood @wouldntfix как можно отрицать науку и при этом пользоваться твиттером?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://github.com/remhume/Hermelin/\" rel=\"nofollow\">Hermelin</a>",
+      "in_reply_to_status_id": 766953407005519900,
+      "in_reply_to_status_id_str": "766953407005519873",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 53967484,
+        "id_str": "53967484"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:09:04 +0000 2016",
+      "id": 766985404465684500,
+      "id_str": "766985404465684480",
+      "text": "@spbunderhood @wouldntfix При отправке одного твитта используется больше науки, чем ты можешь себе представить.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              14,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://github.com/remhume/Hermelin/\" rel=\"nofollow\">Hermelin</a>",
+      "in_reply_to_status_id": 766985377487974400,
+      "in_reply_to_status_id_str": "766985377487974400",
+      "in_reply_to_user_id": 53967484,
+      "in_reply_to_user_id_str": "53967484",
+      "in_reply_to_screen_name": "mr_The",
+      "user": {
+        "id": 53967484,
+        "id_str": "53967484"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:15:12 +0000 2016",
+      "id": 766986947688484900,
+      "id_str": "766986947688484864",
+      "text": "А заебись @spbunderhood сделали, раньше их поди пара васянов читали, а теперь полрунета знает. Паблисити, ёпт.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12462592,
+        "id_str": "12462592"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "319ee7b36c9149da",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+        "place_type": "city",
+        "name": "Arlington",
+        "full_name": "Arlington, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.172219,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.934311
+              ],
+              [
+                -77.172219,
+                38.934311
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:19:25 +0000 2016",
+      "id": 766988005794050000,
+      "id_str": "766988005794050053",
+      "text": "@_polunica Помню, перед сном слушал. Успокаивало годно, хорошие транссерфинговские тексты. Голос чтеца хороший. @spbunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_polunica",
+            "name": "повесть Белкина",
+            "id": 2608418319,
+            "id_str": "2608418319",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              112,
+              125
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766965557384142800,
+      "in_reply_to_status_id_str": "766965557384142848",
+      "in_reply_to_user_id": 2608418319,
+      "in_reply_to_user_id_str": "2608418319",
+      "in_reply_to_screen_name": "_polunica",
+      "user": {
+        "id": 1144134452,
+        "id_str": "1144134452"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:26:11 +0000 2016",
+      "id": 766989711915253800,
+      "id_str": "766989711915253760",
+      "text": "@spbunderhood @DieGelassenheit @wouldntfix очевидно, что твиты отправляются в космос, откуда они всем нам доступны. остальное – мистификация",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "DieGelassenheit",
+            "name": "Die_Gelassenheit",
+            "id": 22755255,
+            "id_str": "22755255",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              31,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766953407005519900,
+      "in_reply_to_status_id_str": "766953407005519873",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 77650638,
+        "id_str": "77650638"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:27:07 +0000 2016",
+      "id": 766989943101022200,
+      "id_str": "766989943101022208",
+      "text": "@spbunderhood прекратите, пожалуйста, писать не по теме сообщества. Нечего написать, отдайте другому. Или ничего не пишите до конца недели.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+      "in_reply_to_status_id": 766989551785173000,
+      "in_reply_to_status_id_str": "766989551785172993",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 51188176,
+        "id_str": "51188176"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:43:37 +0000 2016",
+      "id": 766994096229642200,
+      "id_str": "766994096229642241",
+      "text": "@megamaha ты открой @spbunderhood этой недели, прозреешь",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "megamaha",
+            "name": "КОСМИЧЕСКАЯ ПУПЫРКА",
+            "id": 48661536,
+            "id_str": "48661536",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              20,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766983477023486000,
+      "in_reply_to_status_id_str": "766983477023485952",
+      "in_reply_to_user_id": 48661536,
+      "in_reply_to_user_id_str": "48661536",
+      "in_reply_to_screen_name": "megamaha",
+      "user": {
+        "id": 155685775,
+        "id_str": "155685775"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:44:35 +0000 2016",
+      "id": 766994342301036500,
+      "id_str": "766994342301036544",
+      "text": "@Andrew__Petrov @spbunderhood я тебе говорю, она тролль",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andrew__Petrov",
+            "name": "Andrew_Petrov",
+            "id": 282594849,
+            "id_str": "282594849",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766963613516968000,
+      "in_reply_to_status_id_str": "766963613516967938",
+      "in_reply_to_user_id": 282594849,
+      "in_reply_to_user_id_str": "282594849",
+      "in_reply_to_screen_name": "Andrew__Petrov",
+      "user": {
+        "id": 2563252344,
+        "id_str": "2563252344"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:47:33 +0000 2016",
+      "id": 766995085124898800,
+      "id_str": "766995085124898816",
+      "text": "@spbunderhood @redmoonstudio атомы водорода сами менялись и на нас врали",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "redmoonstudio",
+            "name": "Digital Madness",
+            "id": 209173900,
+            "id_str": "209173900",
+            "indices": [
+              14,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766988880344154100,
+      "in_reply_to_status_id_str": "766988880344154112",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 3472584021,
+        "id_str": "3472584021"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:49:09 +0000 2016",
+      "id": 766995489749405700,
+      "id_str": "766995489749405696",
+      "text": "@bittrmn @spbunderhood Я не имею отношения к Нильсу Бору, Ландау и Фейнману. Они сами блудили и врали на меня.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bittrmn",
+            "name": "Горечь и Джестерение",
+            "id": 3472584021,
+            "id_str": "3472584021",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766995085124898800,
+      "in_reply_to_status_id_str": "766995085124898816",
+      "in_reply_to_user_id": 3472584021,
+      "in_reply_to_user_id_str": "3472584021",
+      "in_reply_to_screen_name": "bittrmn",
+      "user": {
+        "id": 209173900,
+        "id_str": "209173900"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:59:42 +0000 2016",
+      "id": 766998146790686700,
+      "id_str": "766998146790686720",
+      "text": "@Andrew__Petrov @spbunderhood во-вторых, в эту ахинею не обязательно верить, чтобы стряпать на ней бабло",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andrew__Petrov",
+            "name": "Andrew_Petrov",
+            "id": 282594849,
+            "id_str": "282594849",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              16,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766963613516968000,
+      "in_reply_to_status_id_str": "766963613516967938",
+      "in_reply_to_user_id": 282594849,
+      "in_reply_to_user_id_str": "282594849",
+      "in_reply_to_screen_name": "Andrew__Petrov",
+      "user": {
+        "id": 2563252344,
+        "id_str": "2563252344"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:04:41 +0000 2016",
+      "id": 766999398710595600,
+      "id_str": "766999398710595584",
+      "text": "@spbunderhood нет смысла хвататься за новое только ради нового. И сомневаюсь, что атом водорода меняется, а земная ось всего лишь смещается.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 766988880344154100,
+      "in_reply_to_status_id_str": "766988880344154112",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 17174393,
+        "id_str": "17174393"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:31:26 +0000 2016",
+      "id": 767006131487146000,
+      "id_str": "767006131487145985",
+      "text": "@spbunderhood ну я понимаю что салат может нравиться. Но по факту это совсем скучная тема.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766417983497445400,
+      "in_reply_to_status_id_str": "766417983497445377",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 78713891,
+        "id_str": "78713891"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:32:22 +0000 2016",
+      "id": 767006365629964300,
+      "id_str": "767006365629964288",
+      "text": "@SheVasya @spbunderhood ненависть это беда того, кто её испытывает. Моё эго тут причём? Любовь всё растворяет)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SheVasya",
+            "name": "◄Zen Vasya►:",
+            "id": 1361394086,
+            "id_str": "1361394086",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766552998751248400,
+      "in_reply_to_status_id_str": "766552998751248384",
+      "in_reply_to_user_id": 1361394086,
+      "in_reply_to_user_id_str": "1361394086",
+      "in_reply_to_screen_name": "SheVasya",
+      "user": {
+        "id": 42858583,
+        "id_str": "42858583"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:45:46 +0000 2016",
+      "id": 767009737691004900,
+      "id_str": "767009737691004932",
+      "text": "@spbunderhood @derzunov то есть ученные мозгом не пользуются, окей. Интуитивное предположение все равно требует строгих доказательств.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766990445633278000,
+      "in_reply_to_status_id_str": "766990445633277952",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 255693423,
+        "id_str": "255693423"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:46:29 +0000 2016",
+      "id": 767009916523520000,
+      "id_str": "767009916523520000",
+      "text": "@spbunderhood @derzunov интуитивно можно предполагать все что угодно, это не делает предположения правдой.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              14,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 766990445633278000,
+      "in_reply_to_status_id_str": "766990445633277952",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 255693423,
+        "id_str": "255693423"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 14:50:56 +0000 2016",
+      "id": 767011039997268000,
+      "id_str": "767011039997267968",
+      "text": "@spbunderhood  Истинно вам говорю: 4 мая 1925 года земля налетит на небесную ось!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 766988880344154100,
+      "in_reply_to_status_id_str": "766988880344154112",
+      "in_reply_to_user_id": 4827647733,
+      "in_reply_to_user_id_str": "4827647733",
+      "in_reply_to_screen_name": "spbunderhood",
+      "user": {
+        "id": 26397974,
+        "id_str": "26397974"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 15:02:43 +0000 2016",
+      "id": 767014002962604000,
+      "id_str": "767014002962604032",
+      "text": "Я раньше хотел ДМТ попробовать, или хотя бы LSD, на худой конец, но почитав @spbunderhood на этой неделе понял что больше не хочу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "spbunderhood",
+            "name": "Я живу в Питере",
+            "id": 4827647733,
+            "id_str": "4827647733",
+            "indices": [
+              76,
+              89
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14094521,
+        "id_str": "14094521"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

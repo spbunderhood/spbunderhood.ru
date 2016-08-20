@@ -6503,6 +6503,1286 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 20:50:44 +0000 2016",
+      "id": 766739197864673300,
+      "id_str": "766739197864673284",
+      "text": "Твит про \"дышала маткой\" самый топовый за всю неделю. Надо чаще заниматься йогой.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 20:54:24 +0000 2016",
+      "id": 766740120619872300,
+      "id_str": "766740120619872256",
+      "text": "Пятница-вечер. Можно сказать кульминация моего выступления. Как здорово, что все мы здесь сегодня собрались. Вы точно готовы идти дальше?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 21:39:53 +0000 2016",
+      "id": 766751566531616800,
+      "id_str": "766751566531616768",
+      "text": "@Wandermiltz в такие безнадежные моменты я напоминаю себе, что божья искорка есть в каждом из нас..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Wandermiltz",
+            "name": "тихо будь",
+            "id": 95432499,
+            "id_str": "95432499",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766740801481240600,
+      "in_reply_to_status_id_str": "766740801481240576",
+      "in_reply_to_user_id": 95432499,
+      "in_reply_to_user_id_str": "95432499",
+      "in_reply_to_screen_name": "Wandermiltz",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:07:10 +0000 2016",
+      "id": 766758432284221400,
+      "id_str": "766758432284221442",
+      "text": "@Wandermiltz тут уж ничего не поделаешь.. нет значит нет. вы бы ему хоть один шанс дали. глядишь, человечество выживет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Wandermiltz",
+            "name": "тихо будь",
+            "id": 95432499,
+            "id_str": "95432499",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766752018094493700,
+      "in_reply_to_status_id_str": "766752018094493697",
+      "in_reply_to_user_id": 95432499,
+      "in_reply_to_user_id_str": "95432499",
+      "in_reply_to_screen_name": "Wandermiltz",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:08:48 +0000 2016",
+      "id": 766758844382994400,
+      "id_str": "766758844382994432",
+      "text": "@thempleton в 140 символов не поместиться) почитайте Тимоти Лири)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thempleton",
+            "name": "Анна Владимировна",
+            "id": 260892448,
+            "id_str": "260892448",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766758529546018800,
+      "in_reply_to_status_id_str": "766758529546018816",
+      "in_reply_to_user_id": 260892448,
+      "in_reply_to_user_id_str": "260892448",
+      "in_reply_to_screen_name": "thempleton",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:11:25 +0000 2016",
+      "id": 766759502079266800,
+      "id_str": "766759502079266816",
+      "text": "Нас 7 миллиардов здесь. Семь миллиардов людей! Хотя и эта информация не совсем достоверная. По другим данным нас всего миллиард. Но не суть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:15:30 +0000 2016",
+      "id": 766760530740740100,
+      "id_str": "766760530740740097",
+      "text": "Мы все наделены одинаковыми органами чувств. Но видим всё по-разному. Воспринимаем по-разному. Говорим все на разных языках. Это уникально.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:18:52 +0000 2016",
+      "id": 766761377314766800,
+      "id_str": "766761377314766849",
+      "text": "И поэтому нам так сложно ужиться вместе друг с другом.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:28:28 +0000 2016",
+      "id": 766763791354822700,
+      "id_str": "766763791354822660",
+      "text": "А в этом, сука, весь смысл. Объединиться. Полюбить себя и каждого как себя. Слиться в одно целое. Создать синергию. И лететь в новый мир.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:29:57 +0000 2016",
+      "id": 766764163909713900,
+      "id_str": "766764163909713920",
+      "text": "@thempleton сама жизнь парадоксальна и противоречива, поэтому моя противоречивость вполне естественна)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "thempleton",
+            "name": "Анна Владимировна",
+            "id": 260892448,
+            "id_str": "260892448",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766759557414740000,
+      "in_reply_to_status_id_str": "766759557414739968",
+      "in_reply_to_user_id": 260892448,
+      "in_reply_to_user_id_str": "260892448",
+      "in_reply_to_screen_name": "thempleton",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:39:17 +0000 2016",
+      "id": 766766514565447700,
+      "id_str": "766766514565447680",
+      "text": "@Andrew__Petrov погугли, я уже не помню где это было. Но попадалось мне не раз.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Andrew__Petrov",
+            "name": "Andrew_Petrov",
+            "id": 282594849,
+            "id_str": "282594849",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766764311419183100,
+      "in_reply_to_status_id_str": "766764311419183105",
+      "in_reply_to_user_id": 282594849,
+      "in_reply_to_user_id_str": "282594849",
+      "in_reply_to_screen_name": "Andrew__Petrov",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:48:35 +0000 2016",
+      "id": 766768854777356300,
+      "id_str": "766768854777356292",
+      "text": "Но мы сидим перед теликами и тупим. А нет, простите, в айфоне. Бухаем, жиреем, тормозим эволюцию. А могли бы уже телепортацией пользоваться.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 22:49:28 +0000 2016",
+      "id": 766769075200680000,
+      "id_str": "766769075200679936",
+      "text": "@n13110000 На следующей неделе, если доживем)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "n13110000",
+            "name": "Снег и Туман",
+            "id": 1358805456,
+            "id_str": "1358805456",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766766230959222800,
+      "in_reply_to_status_id_str": "766766230959222784",
+      "in_reply_to_user_id": 1358805456,
+      "in_reply_to_user_id_str": "1358805456",
+      "in_reply_to_screen_name": "n13110000",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 23:04:26 +0000 2016",
+      "id": 766772842830688300,
+      "id_str": "766772842830688256",
+      "text": "Рассекать на летающем скейте. И не такое есть. Технологии ушли далеко в будущее. А человек застрял в своем узком мире и дряхлом теле.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 23:05:46 +0000 2016",
+      "id": 766773179507441700,
+      "id_str": "766773179507441664",
+      "text": "А вы уверены, что Земля вообще круглая?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Aug 19 23:17:11 +0000 2016",
+      "id": 766776052794417200,
+      "id_str": "766776052794417152",
+      "text": "Введите в ютуб \"Земля плоская\" и внимайте. На этом мы сегодня закончим нашу песню. Добрых снов)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 08:29:09 +0000 2016",
+      "id": 766914960920289300,
+      "id_str": "766914960920289280",
+      "text": "Привет, суббота! Я сегодня добрая. Загадывайте желания)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 10:54:48 +0000 2016",
+      "id": 766951611163959300,
+      "id_str": "766951611163959296",
+      "text": "@AliasAirlines вот это я понимаю здоровый настрой) а то все так держатся за свое отжившее мировоззрение) надо быть гибче к переменам)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AliasAirlines",
+            "name": "Михаил Архипов",
+            "id": 196277307,
+            "id_str": "196277307",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766948292110549000,
+      "in_reply_to_status_id_str": "766948292110548992",
+      "in_reply_to_user_id": 196277307,
+      "in_reply_to_user_id_str": "196277307",
+      "in_reply_to_screen_name": "AliasAirlines",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 10:56:21 +0000 2016",
+      "id": 766952003578855400,
+      "id_str": "766952003578855424",
+      "text": "@wouldntfix я люблю науку. другое дело, что сами представители науки не могут прийти к единому мнению. не то что мы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766928344717881300,
+      "in_reply_to_status_id_str": "766928344717881344",
+      "in_reply_to_user_id": 20382725,
+      "in_reply_to_user_id_str": "20382725",
+      "in_reply_to_screen_name": "wouldntfix",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:01:56 +0000 2016",
+      "id": 766953407005519900,
+      "id_str": "766953407005519873",
+      "text": "@wouldntfix официальная наука куплена правительством. а тех, кто не продался объявили \"псевдо\" наукой. Я уж молчу про британских ученых..",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wouldntfix",
+            "name": "Александр (18́+)",
+            "id": 20382725,
+            "id_str": "20382725",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766928344717881300,
+      "in_reply_to_status_id_str": "766928344717881344",
+      "in_reply_to_user_id": 20382725,
+      "in_reply_to_user_id_str": "20382725",
+      "in_reply_to_screen_name": "wouldntfix",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 11:19:45 +0000 2016",
+      "id": 766957893182783500,
+      "id_str": "766957893182783488",
+      "text": "Кто там бухтел про науку. Ещё Энштейн говорил об Этом. А вы все ещё думаете, что Чакры это шизотерика) https://t.co/wBWi49oaI9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 766956661185601500,
+            "id_str": "766956661185601536",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqTHBRQWYAA572f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqTHBRQWYAA572f.jpg",
+            "url": "https://t.co/wBWi49oaI9",
+            "display_url": "pic.twitter.com/wBWi49oaI9",
+            "expanded_url": "https://twitter.com/spbunderhood/status/766957893182783488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 599,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 726,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 766956661185601500,
+            "id_str": "766956661185601536",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/CqTHBRQWYAA572f.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CqTHBRQWYAA572f.jpg",
+            "url": "https://t.co/wBWi49oaI9",
+            "display_url": "pic.twitter.com/wBWi49oaI9",
+            "expanded_url": "https://twitter.com/spbunderhood/status/766957893182783488/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 599,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 640,
+                "h": 726,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:19:31 +0000 2016",
+      "id": 766972932853825500,
+      "id_str": "766972932853825536",
+      "text": "@derzunov Айвасочки попейте и увидете все сами) где мозги и где сознание) и шпалы не придется вбивать))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766969049519648800,
+      "in_reply_to_status_id_str": "766969049519648768",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:22:44 +0000 2016",
+      "id": 766973742845161500,
+      "id_str": "766973742845161472",
+      "text": "@Chudesnov навело на мысли, что не все так, как мы его видим) а тем более - как нам его показывают)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Chudesnov",
+            "name": "散厦知",
+            "id": 8505772,
+            "id_str": "8505772",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 8505772,
+      "in_reply_to_user_id_str": "8505772",
+      "in_reply_to_screen_name": "Chudesnov",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:39:14 +0000 2016",
+      "id": 766977895545856000,
+      "id_str": "766977895545856000",
+      "text": "@chikiro_twi  \"источник цитаты\" не поможет решить ваши проблемы с поиском и принятием истины. Потерпите до понедельника)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chikiro_twi",
+            "name": "Chikiro",
+            "id": 51188176,
+            "id_str": "51188176",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766975545691308000,
+      "in_reply_to_status_id_str": "766975545691308032",
+      "in_reply_to_user_id": 51188176,
+      "in_reply_to_user_id_str": "51188176",
+      "in_reply_to_screen_name": "chikiro_twi",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:50:03 +0000 2016",
+      "id": 766980616445362200,
+      "id_str": "766980616445362176",
+      "text": "@Realetive не знала, что во времена Ленина у молодежи был интернет)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Realetive",
+            "name": "Roman Ganin",
+            "id": 154728550,
+            "id_str": "154728550",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766974995184492500,
+      "in_reply_to_status_id_str": "766974995184492544",
+      "in_reply_to_user_id": 154728550,
+      "in_reply_to_user_id_str": "154728550",
+      "in_reply_to_screen_name": "Realetive",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 12:51:30 +0000 2016",
+      "id": 766980983002366000,
+      "id_str": "766980983002365953",
+      "text": "@chikiro_twi истину можно проверить только прожив ее самому всем своим существом. никакая теория и отсылки здесь не работают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chikiro_twi",
+            "name": "Chikiro",
+            "id": 51188176,
+            "id_str": "51188176",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766978587069182000,
+      "in_reply_to_status_id_str": "766978587069181952",
+      "in_reply_to_user_id": 51188176,
+      "in_reply_to_user_id_str": "51188176",
+      "in_reply_to_screen_name": "chikiro_twi",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:22:53 +0000 2016",
+      "id": 766988880344154100,
+      "id_str": "766988880344154112",
+      "text": "Изменился атом водорода. Меняется физическая Вселенная, Земная ось, меняетесь и Вы. А всё хватаетесь за старое, как бабка за ковёр из СССР.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:25:33 +0000 2016",
+      "id": 766989551785173000,
+      "id_str": "766989551785172993",
+      "text": "@chikiro_twi смысл в смысле сказанного. Мне то он понятен. А вам нужен первоисточник, которому вы типа поверите. Ищите и найдете)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "chikiro_twi",
+            "name": "Chikiro",
+            "id": 51188176,
+            "id_str": "51188176",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766982794828537900,
+      "in_reply_to_status_id_str": "766982794828537856",
+      "in_reply_to_user_id": 51188176,
+      "in_reply_to_user_id_str": "51188176",
+      "in_reply_to_screen_name": "chikiro_twi",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Aug 20 13:29:06 +0000 2016",
+      "id": 766990445633278000,
+      "id_str": "766990445633277952",
+      "text": "@derzunov @Darth_temius на двух полушариях мозга, гибкости и интуиции. Чем обычно почти не пользуются люди.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "derzunov",
+            "name": "Dmitry Erzunov",
+            "id": 2415820129,
+            "id_str": "2415820129",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "Darth_temius",
+            "name": "Artem",
+            "id": 255693423,
+            "id_str": "255693423",
+            "indices": [
+              10,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 766969968487501800,
+      "in_reply_to_status_id_str": "766969968487501824",
+      "in_reply_to_user_id": 2415820129,
+      "in_reply_to_user_id_str": "2415820129",
+      "in_reply_to_screen_name": "derzunov",
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        42858583
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
