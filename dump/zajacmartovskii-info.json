@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 423,
+  "followers_count": 420,
   "friends_count": 43,
   "listed_count": 16,
   "created_at": "Tue Jan 19 21:37:27 +0000 2016",
-  "favourites_count": 109,
+  "favourites_count": 110,
   "utc_offset": 10800,
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1428,
+  "statuses_count": 1445,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Aug 22 13:26:18 +0000 2016",
-    "id": 767714514120896500,
-    "id_str": "767714514120896512",
-    "text": "Завидую) тоже хочу там жить, присмотрел там комнату)) https://t.co/811MaQsqhG",
+    "created_at": "Mon Aug 22 20:43:17 +0000 2016",
+    "id": 767824487286997000,
+    "id_str": "767824487286996994",
+    "text": "А живу я в 10 минутах вот отсюда, правда в этом году не был ниразу. Билеты по 450 рублей даже в будни это перебор! https://t.co/GwKdsdMvuc",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/811MaQsqhG",
-          "expanded_url": "https://twitter.com/KamilaRocks/status/767643056736731136",
-          "display_url": "twitter.com/KamilaRocks/st…",
+          "id": 767824465916993500,
+          "id_str": "767824465916993536",
           "indices": [
-            54,
-            77
-          ]
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqfcSJzWIAA_gry.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqfcSJzWIAA_gry.jpg",
+          "url": "https://t.co/GwKdsdMvuc",
+          "display_url": "pic.twitter.com/GwKdsdMvuc",
+          "expanded_url": "https://twitter.com/spbunderhood/status/767824487286996994/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 767824465916993500,
+          "id_str": "767824465916993536",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/media/CqfcSJzWIAA_gry.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CqfcSJzWIAA_gry.jpg",
+          "url": "https://t.co/GwKdsdMvuc",
+          "display_url": "pic.twitter.com/GwKdsdMvuc",
+          "expanded_url": "https://twitter.com/spbunderhood/status/767824487286996994/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 413,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,11 +139,9 @@
     "contributors": [
       765565559245312000
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 767643056736731100,
-    "quoted_status_id_str": "767643056736731136",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
