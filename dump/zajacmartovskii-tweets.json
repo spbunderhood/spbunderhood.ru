@@ -5180,6 +5180,343 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:00:30 +0000 2016",
+      "id": 768885784678195200,
+      "id_str": "768885784678195200",
+      "text": "Сегодня был потрясающий день! Открыл для себя бельгийские вафли на Аптекарском проспекте и снялся для сюжета на первом канале)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:02:04 +0000 2016",
+      "id": 768886175843094500,
+      "id_str": "768886175843094528",
+      "text": "Поговорим о питерских зонах отдыха... Мои любимые парки у метро - ЦПКиО и парк победы, а где любите поваляться на травке вы?)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:04:14 +0000 2016",
+      "id": 768886723820617700,
+      "id_str": "768886723820617728",
+      "text": "Почему только печальки, страдания и депрессии толкают нас на путь творчества? Неужели позитив не способен созидать прекрасное?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:05:06 +0000 2016",
+      "id": 768886940657655800,
+      "id_str": "768886940657655808",
+      "text": "Чем глубже тоска, тем прекраснее то, во что она выливается. Вот только спиваться не стоит",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:06:12 +0000 2016",
+      "id": 768887218828111900,
+      "id_str": "768887218828111872",
+      "text": "А позитив он какой то пластмассовый чтоли, как будто приклеенная улыбка или маска из фарфора - ударишь раз и она рассыпется",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 19:07:57 +0000 2016",
+      "id": 768887657862660100,
+      "id_str": "768887657862660096",
+      "text": "Откуда в людях столько лживости? не хотелось бы напороться на чужое двойное дно",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 20:01:50 +0000 2016",
+      "id": 768901218735390700,
+      "id_str": "768901218735390720",
+      "text": "Всем спокойной ночи и взаимной любви)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 20:37:09 +0000 2016",
+      "id": 768910104376868900,
+      "id_str": "768910104376868864",
+      "text": "А еще нашим театральным актерам трагедии удаются куда лучше комедий https://t.co/dcxHY5IBeq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dcxHY5IBeq",
+            "expanded_url": "https://twitter.com/AliasAirlines/status/768905478277570560",
+            "display_url": "twitter.com/AliasAirlines/…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4827647733,
+        "id_str": "4827647733"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        765565559245312000
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 768905478277570600,
+      "quoted_status_id_str": "768905478277570560",
+      "quoted_status": {
+        "created_at": "Thu Aug 25 20:18:46 +0000 2016",
+        "id": 768905478277570600,
+        "id_str": "768905478277570560",
+        "text": "Из позитива выходит наивное творчество, лучшие произведения - трагедии @spbunderhood",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "spbunderhood",
+              "name": "Я живу в Питере",
+              "id": 4827647733,
+              "id_str": "4827647733",
+              "indices": [
+                71,
+                84
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 768886723820617700,
+        "in_reply_to_status_id_str": "768886723820617728",
+        "in_reply_to_user_id": 4827647733,
+        "in_reply_to_user_id_str": "4827647733",
+        "in_reply_to_screen_name": "spbunderhood",
+        "user": {
+          "id": 196277307,
+          "id_str": "196277307"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
