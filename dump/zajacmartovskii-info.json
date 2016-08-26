@@ -35,29 +35,19 @@
   "time_zone": "St. Petersburg",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1499,
+  "statuses_count": 1509,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Aug 25 20:37:09 +0000 2016",
-    "id": 768910104376868900,
-    "id_str": "768910104376868864",
-    "text": "А еще нашим театральным актерам трагедии удаются куда лучше комедий https://t.co/dcxHY5IBeq",
+    "created_at": "Fri Aug 26 20:10:03 +0000 2016",
+    "id": 769265675185614800,
+    "id_str": "769265675185614848",
+    "text": "Кстати, в итоге у меня сегодня было 2 овсянки и 2 капучино. Завтрак и ужин 😎",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/dcxHY5IBeq",
-          "expanded_url": "https://twitter.com/AliasAirlines/status/768905478277570560",
-          "display_url": "twitter.com/AliasAirlines/…",
-          "indices": [
-            68,
-            91
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -71,14 +61,11 @@
     "contributors": [
       765565559245312000
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 768905478277570600,
-    "quoted_status_id_str": "768905478277570560",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
