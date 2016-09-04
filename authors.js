@@ -1,7 +1,8 @@
 /* eslint-disable no-multi-spaces */
 
 export default [
-  { username: 'zajacmartovskii', start: '22 Aug 2016',  first: '767622733723213824', post: false },
+  { username: 'yukka_',          start: '29 Aug 2016',  first: '770136124987678720', post: false },
+  { username: 'zajacmartovskii', start: '22 Aug 2016',  first: '767622733723213824' },
   { username: 'KamilaRocks',     start: '15 Aug 2016',  first: '765155387347787776' },
   { username: 'kotaff',          start: '08 Aug 2016',  first: '762567596394831872' },
   { username: 'Lightinsite',     start: '01 Aug 2016',  first: '760120678356021248' },
